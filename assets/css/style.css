@@ -174,3 +174,33 @@ a {
     display: none;
   }
 }
+
+
+ul, li {
+  list-style-type: none;
+}
+
+.navi-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.navi-list li:not(.centered-logo) {
+  flex: 1 0 auto;
+  text-align: center;
+}
+
+.navi-list:before {
+  content: "0";
+  opacity: 0.1;
+  display: block;
+  flex: 1 0 auto;
+
+  
+  /*  dev view  */
+  height: 20px;
+  background: rgba(0,0,0,0.1);
+}

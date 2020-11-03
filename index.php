@@ -9,7 +9,8 @@
    <title>Jewels Networking and Outreach</title></title>
 </head>
 <body>
-
+  
+<header class="showcase">
 			<div class="container">
 	<?php
       include ('includes/nav.php');
