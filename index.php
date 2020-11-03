@@ -11,9 +11,6 @@
   
 <header class="showcase">
 			<div class="container">
-	<?php
-     include ('includes/nav.php');
-?>
 
 				<div class="showcase-content">
 					<div>
