@@ -10,6 +10,10 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -371,6 +375,9 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: 2rem;
+  color:  #e83e8c;
+  font-family: 'Dancing Script', cursive;
+  
 }
 
 h3, .h3 {
@@ -6156,6 +6163,10 @@ button.bg-danger:focus {
 
 .bg-light {
   background-color: #f8f9fa !important;
+ 
+}
+.bg-light2 {
+background-image: -webkit-linear-gradient(rgba(238, 230, 238, 0.973), rgba(200, 217, 219, 0.8)), url('../assets/img/feeding.jpg');
 }
 
 a.bg-light:hover, a.bg-light:focus,
@@ -10140,10 +10151,10 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("https://www.ef.com/wwen/blog/wp-content/uploads/2019/04/volunteers.jpg");
+  background-image: url("../assets/img/masthead2.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: center center;
+  background-position: center left;
   background-size: cover;
 }
 header.masthead .masthead-subheading {
@@ -10184,6 +10195,7 @@ header.masthead .masthead-heading {
   max-width: 25rem;
   margin-left: auto;
   margin-right: auto;
+  
 }
 #portfolio .portfolio-item .portfolio-link {
   position: relative;
@@ -10263,7 +10275,10 @@ header.masthead .masthead-heading {
 .portfolio-modal .close-modal:hover {
   opacity: 0.3;
 }
-
+ .item {
+   padding: 50px;
+   background-color: rgb(173,53,98);
+ }
 .timeline {
   position: relative;
   padding: 0;
