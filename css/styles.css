@@ -73,6 +73,63 @@ body {
   background-color: #fff;
 }
 
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+#slideshow  {
+  margin: 1em auto;
+  position: relative;
+  width: 620px;
+  height: 400px;
+  padding: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+}
+
+#slideshow > div {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+  
+}
+
+.container2 {
+  /* padding: 24px; */
+  margin: 0px 200px 0px 200px;
+
+}
+
+/* Clear floats */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* 2/3 column */
+.column-66 {
+  float: left;
+  width: 28%;
+  /* padding: 20px; */
+}
+
+/* 1/3 column */
+.column-33 {
+  float: left;
+  width: 70%;
+  margin-bottom: 120px;
+  /* padding: 20px; */
+} 
+
+
+
+
+
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
@@ -2059,7 +2116,7 @@ pre code {
 
 input[type=date].form-control,
 input[type=time].form-control,
-input[type=datetime-local].form-control,
+input[type=-local].form-control,
 input[type=month].form-control {
   -webkit-appearance: none;
      -moz-appearance: none;
@@ -7583,7 +7640,8 @@ button.bg-dark:focus {
 
 .mt-3,
 .my-3 {
-  margin-top: 1rem !important;
+  
+  
 }
 
 .mr-3,
@@ -10518,4 +10576,13 @@ section#contact form#contactForm :-ms-input-placeholder {
   text-align: center;
   font-size: 0.9rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+/* Add responsiveness - make the columns appear on top of each other instead of next to each other on small screens */
+@media screen and (max-width: 1000px) {
+  .column-66,
+  .column-33 {
+    width: 100%;
+    text-align: center;
+  }
 }
