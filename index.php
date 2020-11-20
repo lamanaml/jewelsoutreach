@@ -34,33 +34,19 @@
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-        <link href="css/styles.css" rel="stylesheet" />
+        <link href="css/bootstrap.css" rel="stylesheet" />
+        <link href="css/jewels.css" rel="stylesheet" />
 
-        
-         <!-- <link href="css/slide.css" rel="stylesheet" /> -->
+
     </head>
 
 
     <body id="page-top">
         <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-            <div class="container">
-                <a class="navbar-brand js-scroll-trigger" href="#page-top">Jewels Outreach</a>
-                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                    Menu
-                    <i class="fas fa-bars ml-1"></i>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav text-uppercase ml-auto">
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">Ministries</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#events">Events</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#shop">Shop</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Contact</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
+       
+       <?php 
+            include 'includes/nav.php';
+        ?>
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
@@ -80,13 +66,32 @@
         </header>
         <!-- Services-->
 
+
+        
+
         <section class="page-section" id="services">
-            <div class="container">
+            <!-- <div class="container">-->
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Ministries</h2>
-                    <h3 class="section-subheading text-muted">Our networking and outreach ministries connect people who can help with people who need help. </h3>
-                </div>
-                <div  >
+                    <!-- <h3 class="section-subheading text-muted">Our networking and outreach ministries connect people who can help with people who need help. </h3> -->
+                <!-- </div>  -->
+
+
+<div class="row" style="height:600px; margin:0px;">
+    <div class="col" style=" background-color: gray; height:400px; height:600px;" > <h2  class="my-3 ">Daughters of Lydia</h2>
+        <!-- <p class="text-muted">Women Entrepreneurs coming together for Networking and Collective Philanthropy. We encourage and equip Women Entrepreneurs to build and impact their families, business  and engage in their community by using their gifts, talents and resources all while sharing the love of God. God has called us to be Kingdom Financiers!<br/><br/> -->
+    
+              <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="lydia.html">Learn More</a> 
+                    </div>
+ 
+
+    <div class="col" style=" background-color: pink; height:600px;"> <h2 class="my-3">JEWELS Feeding Friends</h2>
+        <!-- <p class="text-muted">We provide solutions for the food insecurities in our community. Jewels Feeding Friends has taken on the mission to help meet needs in our community for men, women, children of all ages and walks of life. Through partnerships, we are able to help combat this growing epidemic of hunger. <br/>     <br/> -->
+         <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="feedingfriends.html">Learn More</a> 
+                    </div>
+</div>
+
+                <!-- <div  >
                     <div class="row">
                         <div class="column-33">
                             <img src="assets/img/partners/2.png" style=" width: 600px; padding-right: 50px;">
@@ -113,10 +118,10 @@
 </div>
 
 
-            </div>
+            </div> -->
         </section> 
 
-        <!-- About -->
+        <!-- About --> 
         <section class="page-section bg-light2" id="events">
             <div class="container">
                 <div class="text-center">
@@ -161,11 +166,11 @@
                     <li class="timeline-inverted">
                         <div class="timeline-image">
                             <h4>
-                               See
+                                See
                                 <br />
-                              You
+                                You
                                 <br />
-                               There!
+                                There!
                             </h4>
                         </div>
                     </li>
@@ -242,8 +247,6 @@
             <div class="container text-center">
                 <h2 class="section-heading text-uppercase">Partners</h2>
                 <div class="row">
-
-                   
                     <div class="col-md-3 col-sm-6 my-3">
                         <a href="https://foodbankcenc.org/"><img class="img-fluid d-block mx-auto" src="assets/img/partners/foodbank.jpg" alt="NC Food Bnk" /></a>
                     </div>
@@ -323,20 +326,9 @@
             </div>
         </section>
         <!-- Footer-->
-        <footer class="footer py-4">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 text-lg-left">Copyright © Jewels Networking and Outreach 2016</div>
-                    <div class="col-lg-4 my-3 my-lg-0">
-                     <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href=" https://www.paypal.com/donate?token=NpxnADRHV-4lZTsgGu8rmqsothtcGW7fyqUEOCb8gZdr_sNFrvbEX5HTopMzsFQUymDIpbsM56wfFICT">Donate</a> 
-                    </div>
-                    <div class="col-lg-4 text-lg-right">
-                        <!-- <a class="mr-3" href="#!">Privacy Policy</a>
-                        <a href="#!">Terms of Use</a> -->
-                    </div>
-                </div>
-            </div>
-        </footer>
+               <?php 
+            include 'includes/footer.php';
+        ?>
         <!-- Portfolio Modals-->
         <!-- Modal 1-->
         <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
