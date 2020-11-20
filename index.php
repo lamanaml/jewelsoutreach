@@ -72,8 +72,9 @@
         <section id="services">
             <div class="container2">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Ministries</h2>
-                    <h3 class="section-subheading text-muted">Our networking and outreach ministries connect people who can help with people who need help. </h3> 
+
+                    <h2 class="section-heading text-uppercase"></h2>
+                    <h3 class="section-subheading text-muted">List of events happening in our community! </h3> 
                  </div> 
                 <div class="row">
                     <div class="col-lg-6 mb-4">
@@ -93,7 +94,7 @@
                             <a href="feedingfriends.php"><img class="card-img-top" src="assets/img/events/gallery/1.jpg" alt=""></a>
                             <div class="card-body">
                             <h4 class="card-title">
-                                <a href="#">Jewels Feeding friends</a>
+                                <a href="jewels.php">Jewels Feeding friends</a>
                             </h4>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
                             <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="feedingfriends.php">Learn More</a> 
