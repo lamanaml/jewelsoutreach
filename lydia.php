@@ -58,6 +58,8 @@
         </header> -->
         <!-- Services -->
 
+
+
 <main class="main-content">
   <section class="slideshow">
     <div class="slideshow-inner">
@@ -65,13 +67,13 @@
         <div class="slide is-active ">
           <div class="slide-content">
             <div class="caption">
-              <div class="title"></div>
+              <div class="title">Slide title 1</div>
               <div class="text">
                 <p>Slide description 1</p>
               </div> 
-              <!-- <a href="#" class="btn">
+              <a href="#" class="btn">
                 <span class="btn-inner">Learn More</span>
-              </a> -->
+              </a>
             </div>
           </div>
           <div class="image-container"> 
@@ -85,9 +87,9 @@
               <div class="text">
                 <p>Slide description 2</p>
               </div> 
-              <!-- <a href="#" class="btn">
+              <a href="#" class="btn">
                 <span class="btn-inner">Learn More</span>
-              </a> -->
+              </a>
             </div>
           </div>
           <div class="image-container">
@@ -101,9 +103,9 @@
               <div class="text">
                 <p>Slide description 3</p>
               </div> 
-              <!-- <a href="#" class="btn">
+              <a href="#" class="btn">
                 <span class="btn-inner">Learn More</span>
-              </a> -->
+              </a>
             </div>
           </div>
           <div class="image-container">
@@ -117,9 +119,9 @@
               <div class="text">
                 <p>Slide description 4</p>
               </div> 
-              <!-- <a href="#" class="btn">
+              <a href="#" class="btn">
                 <span class="btn-inner">Learn More</span>
-              </a> -->
+              </a>
             </div>
           </div>
           <div class="image-container"> 
@@ -161,18 +163,17 @@
 
 
 
-  <div class="container" >
+  <!-- <div class="container" >
        <!-- <h2 class="my-3">Daughters of Lydia</h2> -->
                             <p class="text-muted">Women Entrepreneurs coming together for Networking and Collective Philanthropy. We encourage and equip Women Entrepreneurs to build and impact their families, business  and engage in their community by using their gifts, talents and resources all while sharing the love of God. God has called us to be Kingdom Financiers!<br/><br/>
                             <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/DaughtersLYDIA">
-                            <i class="fab fa-facebook-f"></i></a> </p></div>
+                            <i class="fab fa-facebook-f"></i></a> </p></div> -->
 
 
 
+ <!-- Footer-->
 
-                             <!-- Footer-->
-
-               <?php 
+    <?php 
             include 'includes/footer.php';
         ?>
         
