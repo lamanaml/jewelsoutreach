@@ -67,13 +67,11 @@
         <div class="slide is-active ">
           <div class="slide-content">
             <div class="caption">
-              <div class="title">Slide title 1</div>
+              <div class="title">Daughters of Lydia</div>
               <div class="text">
-                <p>Slide description 1</p>
+                <p>Daughters of Lydia</p>
               </div> 
-              <a href="#" class="btn">
-                <span class="btn-inner">Learn More</span>
-              </a>
+            
             </div>
           </div>
           <div class="image-container"> 
@@ -83,13 +81,11 @@
         <div class="slide">
           <div class="slide-content">
             <div class="caption">
-              <div class="title">Slide title 2</div>
+              <div class="title">Daughters of Lydia</div>
               <div class="text">
                 <p>Slide description 2</p>
               </div> 
-              <a href="#" class="btn">
-                <span class="btn-inner">Learn More</span>
-              </a>
+      
             </div>
           </div>
           <div class="image-container">
@@ -99,33 +95,29 @@
         <div class="slide">
           <div class="slide-content">
             <div class="caption">
-              <div class="title">Slide title 3</div>
+              <div class="title">Daughters of Lydia</div>
               <div class="text">
                 <p>Slide description 3</p>
               </div> 
-              <a href="#" class="btn">
-                <span class="btn-inner">Learn More</span>
-              </a>
+         
             </div>
           </div>
           <div class="image-container">
-            <img src="hassets/img/events/gallery/3.jpg" alt="" class="image" />
+            <img src="assets/img/events/gallery/3.jpg" alt="" class="image" />
           </div>
         </div>
         <div class="slide">
           <div class="slide-content">
             <div class="caption">
-              <div class="title">Slide title 4</div>
+              <div class="title">Daughters of Lydia</div>
               <div class="text">
                 <p>Slide description 4</p>
               </div> 
-              <a href="#" class="btn">
-                <span class="btn-inner">Learn More</span>
-              </a>
+    
             </div>
           </div>
           <div class="image-container"> 
-            <img src="hassets/img/events/gallery/4.jpg" alt="" class="image" />
+            <img src="assets/img/events/gallery/4.jpg" alt="" class="image" />
           </div>
         </div>
       </div>
