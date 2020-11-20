@@ -39,7 +39,7 @@
         <link href="css/jewels.css" rel="stylesheet" />
            <link href="css/slides.css" rel="stylesheet" />
         
-         <!-- <link href="css/slide.css" rel="stylesheet" /> -->
+ 
     </head>
 
 
