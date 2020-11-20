@@ -43,7 +43,7 @@
     </head>
 
 
-    <!-- <body id="page-top">
+    <!-- <body id="page-top">-->
         <!-- Navigation-->
                <?php 
             include 'includes/nav.php';
