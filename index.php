@@ -71,16 +71,16 @@
 
         <!-- <section class="page-section" id="services"> -->
             <!-- <div class="container">-->
-                <div class="text-center">
+                <!-- <div class="text-center">
                     <h2 class="section-heading text-uppercase">Ministries</h2>
-                    <!-- <h3 class="section-subheading text-muted">Our networking and outreach ministries connect people who can help with people who need help. </h3> -->
+                    <h3 class="section-subheading text-muted">Our networking and outreach ministries connect people who can help with people who need help. </h3> -->
                 <!-- </div>  -->
 
 
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a href="lydia.html"><img class="card-img-top" src="assets/img/events/gallery/21.jpg" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="#">Daughters of Lydia</a>
@@ -91,43 +91,32 @@
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a href="feedingfriends.php"><img class="card-img-top" src="assets/img/events/gallery/1.jpg" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="#">Jewels Feeding friends</a>
           </h4>
           <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+          <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="feedingfriends.php">Learn More</a> 
         </div>
       </div>
     </div>
-    <div class="col-lg-6 mb-4">
-      <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-        <div class="card-body">
-          <h4 class="card-title">
-            <a href="#">Project Three</a>
-          </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-        </div>
-      </div>
-    </div>
-  
-</div>
-
-
-<div class="row" style="height:600px; margin:0px;">
-    <div class="col" style=" background-color: gray; height:400px; height:600px;" > <h2  class="my-3 ">Daughters of Lydia</h2>
-        <!-- <p class="text-muted">Women Entrepreneurs coming together for Networking and Collective Philanthropy. We encourage and equip Women Entrepreneurs to build and impact their families, business  and engage in their community by using their gifts, talents and resources all while sharing the love of God. God has called us to be Kingdom Financiers!<br/><br/> -->
-    
-              <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="lydia.php">Learn More</a> 
-                    </div>
  
 
-    <div class="col" style=" background-color: pink; height:600px;"> <h2 class="my-3">JEWELS Feeding Friends</h2>
+
+<!-- <div class="row" style="height:600px; margin:0px;">
+    <div class="col" style=" background-color: gray; height:400px; height:600px;" > <h2  class="my-3 ">Daughters of Lydia</h2> -->
+        <!-- <p class="text-muted">Women Entrepreneurs coming together for Networking and Collective Philanthropy. We encourage and equip Women Entrepreneurs to build and impact their families, business  and engage in their community by using their gifts, talents and resources all while sharing the love of God. God has called us to be Kingdom Financiers!<br/><br/> -->
+<!--     
+              <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="lydia.php">Learn More</a> 
+                    </div> -->
+ 
+
+    <!-- <div class="col" style=" background-color: pink; height:600px;"> <h2 class="my-3">JEWELS Feeding Friends</h2> -->
         <!-- <p class="text-muted">We provide solutions for the food insecurities in our community. Jewels Feeding Friends has taken on the mission to help meet needs in our community for men, women, children of all ages and walks of life. Through partnerships, we are able to help combat this growing epidemic of hunger. <br/>     <br/> -->
-         <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="feedingfriends.php">Learn More</a> 
+         <!-- <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="feedingfriends.php">Learn More</a> 
                     </div>
-</div>
+</div> -->
 
                 <!-- <div  >
                     <div class="row">
