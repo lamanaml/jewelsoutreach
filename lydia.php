@@ -43,11 +43,11 @@
     </head>
 
 
-    <body id="page-top">
+    <!-- <body id="page-top">
         <!-- Navigation-->
                <?php 
             include 'includes/nav.php';
-        ?>
+        ?> -->
          <!-- Masthead-->
         <!-- <header class="masthead2">
             <div class="container">
