@@ -37,8 +37,6 @@
        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <link href="css/bootstrap.css" rel="stylesheet" />
         <link href="css/jewels.css" rel="stylesheet" />
-           <link href="css/dist/slides.css" rel="stylesheet" />
-        
 
     </head>
 
