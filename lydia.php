@@ -163,20 +163,18 @@
 
 
 
-  <!-- <div class="container" >
-       <!-- <h2 class="my-3">Daughters of Lydia</h2> -->
-                            <p class="text-muted">Women Entrepreneurs coming together for Networking and Collective Philanthropy. We encourage and equip Women Entrepreneurs to build and impact their families, business  and engage in their community by using their gifts, talents and resources all while sharing the love of God. God has called us to be Kingdom Financiers!<br/><br/>
-                            <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/DaughtersLYDIA">
-                            <i class="fab fa-facebook-f"></i></a> </p></div> -->
+  <div class="container" >
+    <h2 class="my-3">Daughters of Lydia</h2> -->
+    <p class="text-muted">Women Entrepreneurs coming together for Networking and Collective Philanthropy. We encourage and equip Women Entrepreneurs to build and impact their families, business  and engage in their community by using their gifts, talents and resources all while sharing the love of God. God has called us to be Kingdom Financiers!<br/><br/>
+    <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/DaughtersLYDIA">
+    <i class="fab fa-facebook-f"></i></a> </p>
+  </div> -->
 
 
 
  <!-- Footer-->
 
-    <?php 
-            include 'includes/footer.php';
-        ?>
-        
+
 
         <!-- Bootstrap core JS-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
