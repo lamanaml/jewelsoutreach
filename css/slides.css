@@ -176,7 +176,7 @@ body {
   text-indent: -999em;
   z-index: 1;
 }
-.slideshow .pagination .item + .page {
+.slideshow .pagination .item + .pages {
   margin-left: -2px;
 }
 .slideshow .pagination .item::before {
