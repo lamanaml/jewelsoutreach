@@ -34,9 +34,9 @@
         <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
-       <!-- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+       <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <link href="css/bootstrap.css" rel="stylesheet" />
-        <link href="css/jewels.css" rel="stylesheet" /> -->
+        <link href="css/jewels.css" rel="stylesheet" />
            <link href="css/slides.css" rel="stylesheet" />
         
 
@@ -45,9 +45,7 @@
 
     <!-- <body id="page-top">-->
         <!-- Navigation-->
-               <?php 
-            include 'includes/nav.php';
-        ?> 
+
          <!-- Masthead-->
         <!-- <header class="masthead2">
             <div class="container">
