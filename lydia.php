@@ -65,7 +65,7 @@
         <div class="slide is-active ">
           <div class="slide-content">
             <div class="caption">
-              <div class="title">Slide title 1</div>
+              <h2 class="my-3">Daughters of Lydia</h2> -->
               <div class="text">
                 <p>Slide description 1</p>
               </div> 
@@ -81,7 +81,7 @@
         <div class="slide">
           <div class="slide-content">
             <div class="caption">
-              <div class="title">Slide title 2</div>
+            <h2 class="my-3">Daughters of Lydia</h2> -->
               <div class="text">
                 <p>Slide description 2</p>
               </div> 
@@ -97,7 +97,7 @@
         <div class="slide">
           <div class="slide-content">
             <div class="caption">
-              <div class="title">Slide title 3</div>
+               <h2 class="my-3">Daughters of Lydia</h2> -->
               <div class="text">
                 <p>Slide description 3</p>
               </div> 
@@ -113,7 +113,7 @@
         <div class="slide">
           <div class="slide-content">
             <div class="caption">
-              <div class="title">Slide title 4</div>
+               <h2 class="my-3">Daughters of Lydia</h2> -->
               <div class="text">
                 <p>Slide description 4</p>
               </div> 
