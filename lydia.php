@@ -55,15 +55,6 @@
                 <div class="masthead-subheading">Jewels Networking and Outreach</div>
                 <div class="masthead-heading text-uppercase">Daughters of Lydia </div>
                 
-              
-                <!-- <form action="https://www.paypal.com/donate"  style="padding-top:20px" method="post" target="_top">
-                    <input type="hidden" name="hosted_button_id" value="WY5MAKSL7G54Y" />
-                    <input type="image" src=""  class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"  border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate" />
-
-                </form> -->
-         
-
-                
             </div>
         </header>
         <!-- Services -->
@@ -79,9 +70,9 @@
               <div class="text">
                 <p>Slide description 1</p>
               </div> 
-              <a href="#" class="btn">
+              <!-- <a href="#" class="btn">
                 <span class="btn-inner">Learn More</span>
-              </a>
+              </a> -->
             </div>
           </div>
           <div class="image-container"> 
@@ -95,9 +86,9 @@
               <div class="text">
                 <p>Slide description 2</p>
               </div> 
-              <a href="#" class="btn">
+              <!-- <a href="#" class="btn">
                 <span class="btn-inner">Learn More</span>
-              </a>
+              </a> -->
             </div>
           </div>
           <div class="image-container">
@@ -111,9 +102,9 @@
               <div class="text">
                 <p>Slide description 3</p>
               </div> 
-              <a href="#" class="btn">
+              <!-- <a href="#" class="btn">
                 <span class="btn-inner">Learn More</span>
-              </a>
+              </a> -->
             </div>
           </div>
           <div class="image-container">
@@ -127,9 +118,9 @@
               <div class="text">
                 <p>Slide description 4</p>
               </div> 
-              <a href="#" class="btn">
+              <!-- <a href="#" class="btn">
                 <span class="btn-inner">Learn More</span>
-              </a>
+              </a> -->
             </div>
           </div>
           <div class="image-container"> 
@@ -172,7 +163,7 @@
 
 
   <div class="container" >
-       <h2 class="my-3">Daughters of Lydia</h2>
+       <!-- <h2 class="my-3">Daughters of Lydia</h2> -->
                             <p class="text-muted">Women Entrepreneurs coming together for Networking and Collective Philanthropy. We encourage and equip Women Entrepreneurs to build and impact their families, business  and engage in their community by using their gifts, talents and resources all while sharing the love of God. God has called us to be Kingdom Financiers!<br/><br/>
                             <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/DaughtersLYDIA">
                             <i class="fab fa-facebook-f"></i></a> </p></div>
