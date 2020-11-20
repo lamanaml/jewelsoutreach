@@ -119,13 +119,13 @@
     <div class="col" style=" background-color: gray; height:400px; height:600px;" > <h2  class="my-3 ">Daughters of Lydia</h2>
         <!-- <p class="text-muted">Women Entrepreneurs coming together for Networking and Collective Philanthropy. We encourage and equip Women Entrepreneurs to build and impact their families, business  and engage in their community by using their gifts, talents and resources all while sharing the love of God. God has called us to be Kingdom Financiers!<br/><br/> -->
     
-              <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="lydia.html">Learn More</a> 
+              <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="lydia.php">Learn More</a> 
                     </div>
  
 
     <div class="col" style=" background-color: pink; height:600px;"> <h2 class="my-3">JEWELS Feeding Friends</h2>
         <!-- <p class="text-muted">We provide solutions for the food insecurities in our community. Jewels Feeding Friends has taken on the mission to help meet needs in our community for men, women, children of all ages and walks of life. Through partnerships, we are able to help combat this growing epidemic of hunger. <br/>     <br/> -->
-         <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="feedingfriends.html">Learn More</a> 
+         <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="feedingfriends.php">Learn More</a> 
                     </div>
 </div>
 
