@@ -69,7 +69,7 @@
             <div class="caption">
               <div class="title">Daughters of Lydia</div>
               <div class="text">
-                <p>Daughters of Lydia</p>
+                <p>Networking on the Lake</p>
               </div> 
             
             </div>
@@ -83,7 +83,7 @@
             <div class="caption">
               <div class="title">Daughters of Lydia</div>
               <div class="text">
-                <p>Networking on the Lake</p>
+                <p>Health Fair</p>
               </div> 
       
             </div>
@@ -97,7 +97,7 @@
             <div class="caption">
               <div class="title">Daughters of Lydia</div>
               <div class="text">
-                <p>Health Fair</p>
+                <p>Fellowship in the Park</p>
               </div> 
          
             </div>
@@ -117,10 +117,20 @@
             </div>
           </div>
           <div class="image-container"> 
-            <img src="assets/img/events/gallery/4.jpg" alt="" class="image" />
+            <img src="18951437_1430980310295751_8562185327561155614_n" alt="" class="image" />
           </div>
         </div>
       </div>
+              <div class="slide">
+          <div class="slide-content">
+            <div class="caption">
+              <div class="title">Daughters of Lydia</div>
+              <div class="text">
+                <p>Networking</p>
+              </div> 
+    
+            </div>
+          </div>
       <div class="pagination">
         <div class="item is-active"> 
           <span class="icon">1</span>
