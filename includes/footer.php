@@ -2,8 +2,8 @@
         <section class="page-section" id="contact">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Prayer Request, Volunteer or Contact Us</h2>
-                    <h3 class="section-subheading text-muted">Want to volunteer or contact us?  Email us below or call us at (919) 438-0374</h3>
+                    <h2 class="section-heading text-uppercase">Prayer Request or Contact Us</h2>
+                    <h3 class="section-subheading text-muted">In need of prayer for yourself or someone you know?  Email us below or call us at (919) 438-0374</h3>
                 </div>
                 <form id="contactForm" name="sentMessage" novalidate="novalidate">
                     <div class="row align-items-stretch mb-5">

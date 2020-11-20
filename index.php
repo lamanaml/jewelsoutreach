@@ -52,7 +52,7 @@
             <div class="container">
                 <div class="masthead-subheading">Jewels Networking and Outreach</div>
                 <div class="masthead-heading text-uppercase">Ministry Without Walls  </div>
-                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#contact">Volunteer</a> <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href=" https://www.paypal.com/donate?token=NpxnADRHV-4lZTsgGu8rmqsothtcGW7fyqUEOCb8gZdr_sNFrvbEX5HTopMzsFQUymDIpbsM56wfFICT">Donate</a> 
+                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#contact">Prayer Request</a> <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href=" https://www.paypal.com/donate?token=NpxnADRHV-4lZTsgGu8rmqsothtcGW7fyqUEOCb8gZdr_sNFrvbEX5HTopMzsFQUymDIpbsM56wfFICT">Donate</a> 
                 
                 <!-- <form action="https://www.paypal.com/donate"  style="padding-top:20px" method="post" target="_top">
                     <input type="hidden" name="hosted_button_id" value="WY5MAKSL7G54Y" />
