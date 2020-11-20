@@ -121,16 +121,6 @@
           </div>
         </div>
       </div>
-              <div class="slide">
-          <div class="slide-content">
-            <div class="caption">
-              <div class="title">Daughters of Lydia</div>
-              <div class="text">
-                <p>Networking</p>
-              </div> 
-    
-            </div>
-          </div>
       <div class="pagination">
         <div class="item is-active"> 
           <span class="icon">1</span>
