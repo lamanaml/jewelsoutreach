@@ -59,65 +59,124 @@
         <!-- Services -->
 
 
-<div class="container">
-	
-	<div data-am-fadeshow="next-prev-navigation">
 
-		<!-- Radio -->
-		<input type="radio" name="css-fadeshow" id="slide-1" />
-		<input type="radio" name="css-fadeshow" id="slide-2" />
-		<input type="radio" name="css-fadeshow" id="slide-3" />
+<main class="main-content">
+  <section class="slideshow">
+    <div class="slideshow-inner">
+      <div class="slides">
+        <div class="slide is-active ">
+          <div class="slide-content">
+            <div class="caption">
+              <div class="title">Slide title 1</div>
+              <div class="text">
+                <p>Slide description 1</p>
+              </div> 
+              <a href="#" class="btn">
+                <span class="btn-inner">Learn More</span>
+              </a>
+            </div>
+          </div>
+          <div class="image-container"> 
+            <img src="https://www.alixbdanthenay.fr/wp-content/uploads/2015/07/Indispensable-1.jpg" alt="" class="image" />
+          </div>
+        </div>
+        <div class="slide">
+          <div class="slide-content">
+            <div class="caption">
+              <div class="title">Slide title 2</div>
+              <div class="text">
+                <p>Slide description 2</p>
+              </div> 
+              <a href="#" class="btn">
+                <span class="btn-inner">Learn More</span>
+              </a>
+            </div>
+          </div>
+          <div class="image-container">
+            <img src="https://www.alixbdanthenay.fr/wp-content/uploads/2015/07/Indispensable-4-1.jpg" alt="" class="image" />
+          </div>
+        </div>
+        <div class="slide">
+          <div class="slide-content">
+            <div class="caption">
+              <div class="title">Slide title 3</div>
+              <div class="text">
+                <p>Slide description 3</p>
+              </div> 
+              <a href="#" class="btn">
+                <span class="btn-inner">Learn More</span>
+              </a>
+            </div>
+          </div>
+          <div class="image-container">
+            <img src="https://www.alixbdanthenay.fr/wp-content/uploads/2016/11/11.jpg" alt="" class="image" />
+          </div>
+        </div>
+        <div class="slide">
+          <div class="slide-content">
+            <div class="caption">
+              <div class="title">Slide title 4</div>
+              <div class="text">
+                <p>Slide description 4</p>
+              </div> 
+              <a href="#" class="btn">
+                <span class="btn-inner">Learn More</span>
+              </a>
+            </div>
+          </div>
+          <div class="image-container"> 
+            <img src="https://www.alixbdanthenay.fr/wp-content/uploads/2016/11/20mars17-sans-typo.jpg" alt="" class="image" />
+          </div>
+        </div>
+      </div>
+      <div class="pagination">
+        <div class="item is-active"> 
+          <span class="icon">1</span>
+        </div>
+        <div class="item">
+          <span class="icon">2</span>
+        </div>
+        <div class="item">
+          <span class="icon">3</span>
+        </div>
+        <div class="item">
+          <span class="icon">4</span>
+        </div>
+      </div>
+      <div class="arrows">
+        <div class="arrow prev">
+          <span class="svg svg-arrow-left">
+            <svg version="1.1" id="svg4-Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="14px" height="26px" viewBox="0 0 14 26" enable-background="new 0 0 14 26" xml:space="preserve"> <path d="M13,26c-0.256,0-0.512-0.098-0.707-0.293l-12-12c-0.391-0.391-0.391-1.023,0-1.414l12-12c0.391-0.391,1.023-0.391,1.414,0s0.391,1.023,0,1.414L2.414,13l11.293,11.293c0.391,0.391,0.391,1.023,0,1.414C13.512,25.902,13.256,26,13,26z"/> </svg>
+            <span class="alt sr-only"></span>
+          </span>
+        </div>
+        <div class="arrow next">
+          <span class="svg svg-arrow-right">
+            <svg version="1.1" id="svg5-Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="14px" height="26px" viewBox="0 0 14 26" enable-background="new 0 0 14 26" xml:space="preserve"> <path d="M1,0c0.256,0,0.512,0.098,0.707,0.293l12,12c0.391,0.391,0.391,1.023,0,1.414l-12,12c-0.391,0.391-1.023,0.391-1.414,0s-0.391-1.023,0-1.414L11.586,13L0.293,1.707c-0.391-0.391-0.391-1.023,0-1.414C0.488,0.098,0.744,0,1,0z"/> </svg>
+            <span class="alt sr-only"></span>
+          </span>
+        </div>
+      </div>
+    </div> 
+  </section>
+</main>
 
-		<!-- Slides -->
-		<div class="fs-slides">
-			<div class="fs-slide" style="background-image: url(https://images.unsplash.com/photo-1460500063983-994d4c27756c?crop=entropy&fit=crop&fm=jpg&h=1325&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=2550);">
-				<!-- Add content to images (sample) -->
-				<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-family: sans-serif; text-align: center; text-shadow: 0 0 20px rgba(0,0,0,0.5);">
-					<h1 style="margin-top: 0; margin-bottom: 0.8vw; font-size: 5vw; font-weight: bold;">CSS Fadeshow</h1>
-					<p style="font-size: 2vw; font-weight: 100; margin-top: 0;">Easy to implement and use on <strong>your</strong> site!</p>
-				</div>
-			</div>
-			<div class="fs-slide" style="background-image: url(https://images.unsplash.com/photo-1440557653082-e8e186733eeb?crop=entropy&fit=crop&fm=jpg&h=1325&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=2500);"></div>
-			<div class="fs-slide" style="background-image: url(https://images.unsplash.com/photo-1449057528837-7ca097b3520c?crop=entropy&fit=crop&fm=jpg&h=1325&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=2500);"></div>
-		</div>
 
-		<!-- Quick Navigation -->
-		<div class="fs-quick-nav">
-			<label class="fs-quick-btn" for="slide-1"></label>
-			<label class="fs-quick-btn" for="slide-2"></label>
-			<label class="fs-quick-btn" for="slide-3"></label>
-		</div>
-		
-		<!-- Prev Navigation -->
-		<div class="fs-prev-nav">
-			<label class="fs-prev-btn" for="slide-1"></label>
-			<label class="fs-prev-btn" for="slide-2"></label>
-			<label class="fs-prev-btn" for="slide-3"></label>
-		</div>
-		
-		<!-- Next Navigation -->
-		<div class="fs-next-nav">
-			<label class="fs-next-btn" for="slide-1"></label>
-			<label class="fs-next-btn" for="slide-2"></label>
-			<label class="fs-next-btn" for="slide-3"></label>
-		</div>
 
-	</div>
-	
-</div>
- <!--
-  <div class="container" >
-    <h2 class="my-3">Daughters of Lydia</h2> 
+ <div class="container" >
+    <h2 class="my-3">Daughters of Lydia</h2> -->
     <p class="text-muted">Women Entrepreneurs coming together for Networking and Collective Philanthropy. We encourage and equip Women Entrepreneurs to build and impact their families, business  and engage in their community by using their gifts, talents and resources all while sharing the love of God. God has called us to be Kingdom Financiers!<br/><br/>
     <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/DaughtersLYDIA">
     <i class="fab fa-facebook-f"></i></a> </p>
-  </div> -->
+    </div> -->
 
 
 
  <!-- Footer-->
 
-
+    <?php 
+            include 'includes/footer.php';
+        ?>
         
 
         <!-- Bootstrap core JS-->
@@ -130,9 +189,9 @@
         <script src="assets/mail/jqBootstrapValidation.js"></script>
         <script src="assets/mail/contact_me.js"></script>
         <!-- Core theme JS-->
-
+               
         <script src="js/scripts.js"></script>
-
+ <script src="js/slides.js"></script>
 
     </body>
 </html>
