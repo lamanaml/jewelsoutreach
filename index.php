@@ -73,7 +73,7 @@
             <div class="container2">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Ministries</h2>
-                    <h3 class="section-subheading text-muted">Our networking and outreach ministries connect people who can help with people who need help. </h3> -->
+                    <h3 class="section-subheading text-muted">Our networking and outreach ministries connect people who can help with people who need help. </h3> 
                  </div> 
                 <div class="row">
                     <div class="col-lg-6 mb-4">
