@@ -39,7 +39,7 @@
         <link href="css/jewels.css" rel="stylesheet" />
            <link href="css/slides.css" rel="stylesheet" />
         
- 
+
     </head>
 
 
@@ -75,7 +75,7 @@
         <div class="slide is-active ">
           <div class="slide-content">
             <div class="caption">
-              <div class="title">Slide title 1</div>
+              <div class="title"></div>
               <div class="text">
                 <p>Slide description 1</p>
               </div> 

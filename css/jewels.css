@@ -3,7 +3,8 @@ header.masthead2 {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/events/feeding.jpg");
+  /* background-image: url("../assets/img/events/feeding.jpg"); */
+  background-color:pink;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center left;
