@@ -117,9 +117,7 @@
 
  <!-- Footer-->
 
-    <?php 
-            include 'includes/footer.php';
-        ?>
+
         
 
         <!-- Bootstrap core JS-->
