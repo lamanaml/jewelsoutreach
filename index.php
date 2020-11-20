@@ -70,7 +70,7 @@
         
 
         <section id="services">
-            <div class="container">
+            <div class="container2">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Ministries</h2>
                     <h3 class="section-subheading text-muted">Our networking and outreach ministries connect people who can help with people who need help. </h3> -->
@@ -84,6 +84,7 @@
                                     <a href="#">Daughters of Lydia</a>
                                 </h4>
                                 <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                                <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="lydia.php">Learn More</a> 
                             </div>
                         </div>
                     </div>
