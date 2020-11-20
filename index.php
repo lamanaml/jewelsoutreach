@@ -79,7 +79,7 @@
                 <div class="row">
                     <div class="col-lg-6 mb-4">
                         <div class="card h-100">
-                            <a href="lydia.php"><img class="card-img-top" src="assets/img/events/gallery/21.jpg" alt=""></a>
+                            <a href="lydia.php"><img class="card-img-top" src="assets/img/events/gallery/1.jpg" alt=""></a>
                             <div class="card-body">
                                 <h4 class="card-title">
                                     <a href="lydia.php">Daughters of Lydia</a>
@@ -91,7 +91,7 @@
                     </div>
                     <div class="col-lg-6 mb-4">
                         <div class="card h-100">
-                            <a href="feeding.php"><img class="card-img-top" src="assets/img/events/gallery/1.jpg" alt=""></a>
+                            <a href="feeding.php"><img class="card-img-top" src="assets/img/events/gallery/21.jpg" alt=""></a>
                             <div class="card-body">
                             <h4 class="card-title">
                                 <a href="feeding.php">Jewels Feeding friends</a>
