@@ -157,7 +157,7 @@
     <h3 class="text-muted">Women Entrepreneurs coming together for Networking and Collective Philanthropy. We encourage and equip Women Entrepreneurs to build and impact their families, business  and engage in their community by using their gifts, talents and resources all while sharing the love of God. God has called us to be Kingdom Financiers!<br/><br/>
     <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/DaughtersLYDIA">
     <i class="fab fa-facebook-f"></i></a> </h3>
-    </div> -->
+    </div> 
 
 
 
