@@ -103,7 +103,7 @@
             </div>
           </div>
           <div class="image-container">
-            <img src="assets/img/events/gallery/72400878_2247196888904619_8970080558231060480_n.jpg" alt="" class="image" />
+            <img src="18951437_1430980310295751_8562185327561155614_n" alt="" class="image" />
           </div>
         </div>
         <div class="slide">
@@ -116,10 +116,10 @@
     
             </div>
           </div>
-          <div class="image-container"> 
+          <!-- <div class="image-container"> 
             <img src="18951437_1430980310295751_8562185327561155614_n" alt="" class="image" />
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="pagination">
         <div class="item is-active"> 
