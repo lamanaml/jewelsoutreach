@@ -45,18 +45,17 @@
 
     <body id="page-top">
         <!-- Navigation-->
-          <!-- Footer-->
                <?php 
             include 'includes/nav.php';
         ?>
          <!-- Masthead-->
-        <header class="masthead2">
+        <!-- <header class="masthead2">
             <div class="container">
                 <div class="masthead-subheading">Jewels Networking and Outreach</div>
                 <div class="masthead-heading text-uppercase">Daughters of Lydia </div>
                 
             </div>
-        </header>
+        </header> -->
         <!-- Services -->
 
 <main class="main-content">
