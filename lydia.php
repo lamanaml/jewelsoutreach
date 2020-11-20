@@ -65,65 +65,57 @@
         <div class="slide is-active ">
           <div class="slide-content">
             <div class="caption">
-              <h2 class="my-3">Daughters of Lydia</h2> -->
+                   <div class="title">Daughters of Lydia</div>
               <div class="text">
-                <p>Slide description 1</p>
+                <p>Business Owners Networking</p>
               </div> 
-              <a href="#" class="btn">
-                <span class="btn-inner">Learn More</span>
-              </a>
+          
             </div>
           </div>
           <div class="image-container"> 
-            <img src="https://www.alixbdanthenay.fr/wp-content/uploads/2015/07/Indispensable-1.jpg" alt="" class="image" />
+            <img src="assets/img/events/gallery/dolbusiness.jpg" alt="" class="image" />
           </div>
         </div>
         <div class="slide">
           <div class="slide-content">
             <div class="caption">
-            <h2 class="my-3">Daughters of Lydia</h2> -->
+                    <div class="title">Daughters of Lydia</div>
               <div class="text">
-                <p>Slide description 2</p>
+                <p>Fellowship at the Park</p>
               </div> 
-              <a href="#" class="btn">
-                <span class="btn-inner">Learn More</span>
-              </a>
+             
             </div>
           </div>
           <div class="image-container">
-            <img src="https://www.alixbdanthenay.fr/wp-content/uploads/2015/07/Indispensable-4-1.jpg" alt="" class="image" />
+            <img src="assets/img/events/gallery/dolpark.jpg" alt="" class="image" />
           </div>
         </div>
         <div class="slide">
           <div class="slide-content">
             <div class="caption">
-               <h2 class="my-3">Daughters of Lydia</h2> -->
+              <div class="title">Daughters of Lydia</div>
               <div class="text">
-                <p>Slide description 3</p>
+                <p>Brainstorming on the Lake</p>
               </div> 
-              <a href="#" class="btn">
-                <span class="btn-inner">Learn More</span>
-              </a>
+             
             </div>
           </div>
           <div class="image-container">
-            <img src="https://www.alixbdanthenay.fr/wp-content/uploads/2016/11/11.jpg" alt="" class="image" />
+            <img src="assets/img/events/gallery/dollake.jpg" alt="" class="image" />
           </div>
         </div>
         <div class="slide">
           <div class="slide-content">
             <div class="caption">
-               <h2 class="my-3">Daughters of Lydia</h2> -->
+              <div class="title">Daughters of Lydia</div>
               <div class="text">
-                <p>Slide description 4</p>
+                <p>Health Fair</p>
               </div> 
-              <a href="#" class="btn">
-                <span class="btn-inner">Learn More</span>
-              </a>
+            
             </div>
           </div>
           <div class="image-container"> 
-            <img src="https://www.alixbdanthenay.fr/wp-content/uploads/2016/11/20mars17-sans-typo.jpg" alt="" class="image" />
+            <img src="assets/img/events/gallery/dolhealthfair.jpg" alt="" class="image" />
           </div>
         </div>
       </div>
