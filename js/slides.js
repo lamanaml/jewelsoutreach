@@ -5,7 +5,7 @@ function slideshowSwitch(slideshow, index, auto) {
   if (slideshow.data("wait")) return;
 
   var slides = slideshow.find(".slide");
-  var pages = slideshow.find(".pagination");
+//   var pages = slideshow.find(".pagination");
   var activeSlide = slides.filter(".is-active");
   var activeSlideImage = activeSlide.find(".image-container");
   var newSlide = slides.eq(index);
