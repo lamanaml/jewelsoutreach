@@ -49,7 +49,7 @@
             include 'includes/nav.php';
         ?>
         <!-- Masthead-->
-        <header class="masthead2">
+        <header class="masthead3">
             <div class="container">
                 <!-- <div class="masthead-subheading">Jewels Networking and Outreach</div> -->
                 <div class="masthead-heading text-uppercase">Jewels Feeding Friends  </div>               
