@@ -96,7 +96,7 @@
                             <h4 class="card-title">
                                 <a href="feeding.php">Jewels Feeding friends</a>
                             </h4>
-                            <p class="card-text">We provide solutions for the food insecurities in our community.</p>
+                            <p class="card-text">We mobalize Organizations and Volunteers to provide solutions for the food insecurities in our community.</p>
                             <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="feeding.php">Learn More</a> 
                             </div>
                         </div>
