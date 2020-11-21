@@ -62,7 +62,7 @@
          <div class="container" > <h4 class="my-3">JEWELS Feeding Friends</h4>
                <p class="text-muted">We provide solutions for the food insecurities in our community. Jewels Feeding Friends has taken on the mission to help meet needs in our community for men, women, children of all ages and walks of life. Through partnerships, we are able to help combat this growing epidemic of hunger. <br/>     <br/> 
                
-              <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#contact">Volunteer</a> <a class="btn btn-dark btn-social mx-2" href="feedingfriends.html"><i class="fab fa-facebook-f"></i></a></p></div>
+              <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="#contact">Volunteer</a> <a class="btn btn-dark btn-social mx-2" href="feedingfriends.html"><i class="fab fa-facebook-f"></i></a></p></div>
          </div>
 
 
