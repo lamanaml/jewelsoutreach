@@ -71,10 +71,7 @@
           </div>
         </div>
 
-<div class="image-container">
-            <img src="assets/img/events/gallery/21.jpg" alt="" class="image" />
-          </div>
-        </div>
+
         <div class="slide">
           <div class="slide-content">
             <div class="caption">
@@ -87,6 +84,21 @@
           </div>
           <div class="image-container">
             <img src="assets/img/events/gallery/23.jpg" alt="" class="image" />
+          </div>
+        </div>
+        
+        <div class="slide">
+          <div class="slide-content">
+            <div class="caption">
+              <div class="title">Jewels Feeding Friends </div>
+              <!-- <div class="text">
+                <p>Brainstorming on the Lake</p>
+              </div> 
+              -->
+            </div>
+          </div>
+          <div class="image-container">
+            <img src="assets/img/events/gallery/21.jpg" alt="" class="image" />
           </div>
         </div>
         <div class="slide">
