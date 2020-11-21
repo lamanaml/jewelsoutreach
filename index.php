@@ -78,7 +78,7 @@
                  </div> 
                 <div class="row">
                     <div class="col-lg-6 mb-4">
-                        <div class="card h-100">
+                        <div class="card h-100" style="border:0px">
                             <a href="lydia.php"><img class="card-img-top" src="assets/img/events/gallery/1.jpg" alt=""></a>
                             <div class="card-body">
                                 <h4 class="card-title">
@@ -90,7 +90,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6 mb-4">
-                        <div class="card h-100">
+                        <div class="card h-100" style="border:0px">>
                             <a href="feeding.php"><img class="card-img-top" src="assets/img/events/gallery/21.jpg" alt=""></a>
                             <div class="card-body">
                             <h4 class="card-title">
