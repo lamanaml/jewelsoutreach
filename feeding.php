@@ -151,7 +151,7 @@
         <!-- Services-->
 <div class="container">
 
-  <h2 class="my-3">Daughters of Lydia</h2> 
+  <h2 class="my-3">Jewels Feeding Friends</h2> 
               <h3 class="text-muted">We provide solutions for the food insecurities in our community. Jewels Feeding Friends has taken on the mission to help meet needs in our community for men, women, children of all ages and walks of life. Through partnerships, we are able to help combat this growing epidemic of hunger. </h3><br/>     <br/> 
                
               <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="#contact">Volunteer</a> <a class="btn btn-dark btn-social mx-2" href="feedingfriends.html"><i class="fab fa-facebook-f"></i></a></p></div>
