@@ -94,7 +94,7 @@
                             <a href="feeding.php"><img class="card-img-top" src="assets/img/events/gallery/ffbuffet.jpg" alt=""></a>
                             <div class="card-body" style="text-align:center;">
                             <h4 class="card-title">
-                                <a href="feeding.php">Jewels Feeding friends</a>
+                                <a href="feeding.php">Jewels Feeding Friends</a>
                             </h4>
                             <p class="card-text">We mobalize Organizations and Volunteers to provide solutions for the food insecurities in our community.</p>
                             <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="feeding.php">Learn More</a> 
