@@ -4591,7 +4591,7 @@ input[type=button].btn-block {
   border-color: #dee2e6;
 }
 
-.pagination-lg .page-link {
+/* .pagination-lg .page-link {
   padding: 0.75rem 1.5rem;
   font-size: 1.25rem;
   line-height: 1.5;
@@ -4617,7 +4617,7 @@ input[type=button].btn-block {
 .pagination-sm .page-item:last-child .page-link {
   border-top-right-radius: 0.2rem;
   border-bottom-right-radius: 0.2rem;
-}
+} */
 
 .badge {
   display: inline-block;
