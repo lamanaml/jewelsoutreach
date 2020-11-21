@@ -109,7 +109,7 @@
             <div class="caption">
               <div class="title">Daughters of Lydia</div>
               <div class="text">
-                <p>Health Fair</p>
+                <p>Holistic Health Fair</p>
               </div> 
             
             </div>
