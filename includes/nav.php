@@ -8,10 +8,9 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ml-auto">
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#services">Ministries</a></li>
-
+                        
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="index.php#services" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <a class="nav-link dropdown-toggle js-scroll-trigger" href="index.php#services" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                            Ministries
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
