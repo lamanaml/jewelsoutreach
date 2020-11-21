@@ -98,7 +98,7 @@
             </div>
           </div>
           <div class="image-container">
-            <img src="assets/img/events/gallery/25.jpg" alt="" class="image" />
+            <img src="assets/img/events/gallery/21.jpg" alt="" class="image" />
           </div>
         </div>
         <div class="slide">
@@ -112,7 +112,7 @@
             </div>
           </div>
           <div class="image-container"> 
-            <img src="assets/img/events/gallery/27.jpg" alt="" class="image" />
+            <img src="assets/img/events/gallery/25.jpg" alt="" class="image" />
           </div>
         </div>
       </div>
