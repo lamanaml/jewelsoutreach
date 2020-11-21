@@ -9,6 +9,16 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ml-auto">
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#services">Ministries</a></li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="index.php#services" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Ministries
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="lydia.php">Daughters of Lydia</a>
+                            <a class="dropdown-item" href="feeding.php">Jewels Feeding Friends</a>
+                            
+                        </li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#events">Events</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#shop">Shop</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#about">About</a></li>
