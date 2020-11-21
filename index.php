@@ -79,24 +79,24 @@
                 <div class="row">
                     <div class="col-lg-6 mb-4">
                         <div class="card h-100" style="border:0px">
-                            <a href="lydia.php"><img class="card-img-top" src="assets/img/events/gallery/1.jpg" alt=""></a>
-                            <div class="card-body">
+                            <a href="lydia.php"><img class="card-img-top" src="assets/img/events/gallery/dolbusiness.jpg" alt=""></a>
+                            <div class="card-body"  style="text-align:center;">
                                 <h4 class="card-title">
                                     <a href="lydia.php">Daughters of Lydia</a>
                                 </h4>
-                                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                                <p class="card-text">Women Entrepreneurs coming together for Networking and Collective Philanthropy.</p>
                                 <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="lydia.php">Learn More</a> 
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 mb-4">
                         <div class="card h-100" style="border:0px">
-                            <a href="feeding.php"><img class="card-img-top" src="assets/img/events/gallery/21.jpg" alt=""></a>
+                            <a href="feeding.php"><img class="card-img-top" src="assets/img/events/gallery/ffbuffet.jpg" alt=""></a>
                             <div class="card-body" style="text-align:center;">
                             <h4 class="card-title">
                                 <a href="feeding.php">Jewels Feeding friends</a>
                             </h4>
-                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+                            <p class="card-text">We provide solutions for the food insecurities in our community.</p>
                             <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="feeding.php">Learn More</a> 
                             </div>
                         </div>
