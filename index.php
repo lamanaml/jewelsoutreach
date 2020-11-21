@@ -90,9 +90,9 @@
                         </div>
                     </div>
                     <div class="col-lg-6 mb-4">
-                        <div class="card h-100" style="border:0px">>
+                        <div class="card h-100" style="border:0px">
                             <a href="feeding.php"><img class="card-img-top" src="assets/img/events/gallery/21.jpg" alt=""></a>
-                            <div class="card-body">
+                            <div class="card-body" style="text-align:center;">
                             <h4 class="card-title">
                                 <a href="feeding.php">Jewels Feeding friends</a>
                             </h4>
