@@ -49,12 +49,29 @@
             include 'includes/nav.php';
         ?>
         <!-- Masthead-->
-        <header class="masthead3">
-            <div class="container">
-                <!-- <div class="masthead-subheading">Jewels Networking and Outreach</div> -->
-                <div class="masthead-heading text-uppercase">Jewels Feeding Friends  </div>               
+
+
+        <main class="main-content">
+  <section class="slideshow">
+    <div class="slideshow-inner">
+      <div class="slides">
+        <div class="slide is-active ">
+          <div class="slide-content">
+            <div class="caption">
+                   <div class="title">Jewels Feeding Friends </div>
+              <div class="text">
+                <!-- <p>Business Owners Networking</p> -->
+              </div> 
+          
             </div>
-        </header>
+          </div>
+          <div class="image-container"> 
+            <img src="assets/img/events/feeding.jpg" alt="" class="image" />
+          </div>
+        </div>
+
+        </section></main>
+        
         <!-- Services-->
 <div class="container">
 
