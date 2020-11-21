@@ -69,7 +69,7 @@
 
         
 
-        <section class="page-sectio"n id="services">
+        <section class="page-section" id="services">
             <div class="container2">
                 <div class="text-center">
 
