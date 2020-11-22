@@ -152,13 +152,38 @@
 </main>
 
 
- <div class="container" >
-    <h2 class="my-3">Daughters of Lydia</h2> 
-    <h3 class="text-muted">Women Entrepreneurs coming together for Networking and Collective Philanthropy. We encourage and equip Women Entrepreneurs to build and impact their families, business  and engage in their community by using their gifts, talents and resources all while sharing the love of God. God has called us to be Kingdom Financiers!<br/><br/></h3>
-    <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/DaughtersLYDIA">
-    <i class="fab fa-facebook-f"></i></a> 
-    </div> 
-
+        <section class="page-section" >
+            <div class="container2">
+               
+                <div class="row">
+                    <div class="col-lg-6 mb-4">
+                        <div class="card h-100" style="border:0px">
+                            <a href="lydia.php"><img class="card-img-top" src="assets/img/events/gallery/dolbusiness.jpg" alt=""></a>
+                            <div class="card-body"  style="text-align:center;">
+                                <h4 class="card-title">
+                                    <a href="lydia.php">Daughters of Lydia</a>
+                                </h4>
+                                <p class="card-text">>Women Entrepreneurs coming together for Networking and Collective Philanthropy. We encourage and equip Women Entrepreneurs to build and impact their families, business  and engage in their community by using their gifts, talents and resources all while sharing the love of God. God has called us to be Kingdom Financiers!</p>
+                                <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="lydia.php">Learn More</a> 
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 mb-4">
+                        <div class="card h-100" style="border:0px">
+                            <a href="feeding.php"><img class="card-img-top" src="assets/img/events/gallery/ffbuffet.jpg" alt=""></a>
+                            <div class="card-body" style="text-align:center;">
+                            <h4 class="card-title">
+                                <a href="feeding.php">Jewels Feeding Friends</a>
+                            </h4>
+                            <p class="card-text"><a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/DaughtersLYDIA">
+    <i class="fab fa-facebook-f"></i></a> </p>
+                            <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="feeding.php">Learn More</a> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
  <!-- Footer-->
