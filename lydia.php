@@ -159,9 +159,9 @@
                     <div class="col-lg-6 mb-4">
                         <div class="card h-100" style="border:0px">
                             
-                            <div class="card-body"  style="text-align:center;">
+                            <div   >
                                  <h2 class="section-heading text-uppercase">Daughters of Lydia</h2>
-                                <p class="card-text">Women Entrepreneurs coming together for Networking and Collective Philanthropy. We encourage and equip Women Entrepreneurs to build and impact their families, business  and engage in their community by using their gifts, talents and resources all while sharing the love of God. God has called us to be Kingdom Financiers!</p>
+                                 <p class="card-text">>Women Entrepreneurs coming together for Networking and Collective Philanthropy. We encourage and equip Women Entrepreneurs to build and impact their families, business  and engage in their community by using their gifts, talents and resources all while sharing the love of God. God has called us to be Kingdom Financiers!</p>
                                
                             </div>
                         </div>
