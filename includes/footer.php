@@ -1,6 +1,3 @@
-<!-- Contact-->
-        <section class="page-section" id="contact">
-            <div class="container">
 
                  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f8fb542db59835608c24db966_e0b5c68a86" tabindex="-1" value=""></div>
@@ -8,6 +5,10 @@
     </div>
 </form>
 </div>
+<!-- Contact-->
+        <section class="page-section" id="contact">
+            <div class="container">
+
 
 <!--End mc_embed_signup-->
                 <!-- <div class="text-center">
