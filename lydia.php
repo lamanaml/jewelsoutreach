@@ -1,11 +1,9 @@
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title>Jewels Networking and Outreach</title>
+        <title>Daughters of Lydia - Jewels Networking and Outreach</title>
         <link rel="canonical" href="https://www.jewelsoutreach.com"/>
-        <meta name="robots" content="noindex" /> 
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="Jewels Networking and Outreach is a non-profit Faith-based organization teaming with our community to feed and empower those in need."  />
         <meta name="author" content="Rhonda Cozart" /> 
@@ -26,7 +24,7 @@
 
 
         
-        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" /> -->
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -34,7 +32,7 @@
         <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
-       <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <link href="css/bootstrap.css" rel="stylesheet" />
         <link href="css/jewels.css" rel="stylesheet" />
         <link href="css/dist/slides.css" rel="stylesheet" />

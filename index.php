@@ -4,7 +4,6 @@
         <meta charset="utf-8" />
         <title>Jewels Networking and Outreach</title>
         <link rel="canonical" href="https://www.jewelsoutreach.com"/>
-        <meta name="robots" content="noindex" /> 
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="Jewels Networking and Outreach is a non-profit Faith-based organization teaming with our community to feed and empower those in need."  />
         <meta name="author" content="Rhonda Cozart" /> 
@@ -25,7 +24,7 @@
 
 
         
-        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" /> -->
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -37,28 +36,23 @@
         <link href="css/bootstrap.css" rel="stylesheet" />
         <link href="css/jewels.css" rel="stylesheet" />
 
-
     </head>
 
 
     <body id="page-top">
         <!-- Navigation-->
-       
-       <?php 
+        <?php 
             include 'includes/nav.php';
         ?>
+
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
                 <div class="masthead-subheading">Jewels Networking and Outreach</div>
                 <div class="masthead-heading text-uppercase">Ministry Without Walls  </div>
-                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#contact">Prayer Request</a> <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href=" https://www.paypal.com/donate?token=NpxnADRHV-4lZTsgGu8rmqsothtcGW7fyqUEOCb8gZdr_sNFrvbEX5HTopMzsFQUymDIpbsM56wfFICT">Donate</a> 
+                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#contact">Prayer Request</a> <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="give.php">Donate</a> 
                 
-                <!-- <form action="https://www.paypal.com/donate"  style="padding-top:20px" method="post" target="_top">
-                    <input type="hidden" name="hosted_button_id" value="WY5MAKSL7G54Y" />
-                    <input type="image" src=""  class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"  border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate" />
-
-                </form> -->
+              
          
 
                 

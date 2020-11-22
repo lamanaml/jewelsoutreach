@@ -41,7 +41,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4 text-lg-left">Copyright © Jewels Networking and Outreach 2016</div>
                     <div class="col-lg-4 my-3 my-lg-0">
-                     <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href=" https://www.paypal.com/donate?token=NpxnADRHV-4lZTsgGu8rmqsothtcGW7fyqUEOCb8gZdr_sNFrvbEX5HTopMzsFQUymDIpbsM56wfFICT">Donate</a> 
+                     <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="give.php">Donate</a> 
                     </div>
                     <div class="col-lg-4 text-lg-right">
                         <!-- <a class="mr-3" href="#!">Privacy Policy</a>
