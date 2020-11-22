@@ -176,8 +176,8 @@
                      <h4 class="card-title">
                                     <a href="#">Connect with Us</a>
                                 </h4>
-                            <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="feeding.php">Learn More</a> 
-                            <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="feeding.php">Join our group</a> 
+                            
+                            <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://www.facebook.com/groups/1293304504162255">Join our group</a> 
                             <p class="card-text"><a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/DaughtersLYDIA"><i class="fab fa-facebook-f"></i></a> </p>
                             </div>
                         </div>
