@@ -146,20 +146,43 @@
       </div>
     </div> 
 
-        </section></main>
+        </section>
+        </main>
         
         <!-- Services-->
-<div class="container">
 
-  <h2 class="my-3">Jewels Feeding Friends</h2> 
-              <h3 class="text-muted">We provide solutions for the food insecurities in our community. Jewels Feeding Friends has taken on the mission to help meet needs in our community for men, women, children of all ages and walks of life. Through partnerships, we are able to help combat this growing epidemic of hunger. </h3><br/>     <br/> 
+
+
+        <section class="page-section" >
+            <div class="container2">
                
-              <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="#contact">Volunteer</a> <a class="btn btn-dark btn-social mx-2" href="feedingfriends.html"><i class="fab fa-facebook-f"></i></a></p></div>
-         </div>
-
-
-
-
+                <div class="row">
+                    <div class="col-lg-6 mb-4">
+                        <div class="card h-100" style="border:0px">
+                            
+                            <div class="card-body"  >
+                                 <h2 class="section-heading text-uppercase">Jewels Feeding Friends</h2>
+                                 <p class="card-text">We provide solutions for the food insecurities in our community. Jewels Feeding Friends has taken on the mission to help meet needs in our community for men, women, children of all ages and walks of life. Through partnerships, we are able to help combat this growing epidemic of hunger.</p>
+                               
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 mb-4">
+                        <div class="card h-100" style="border:0px">
+                            
+                            <div class="card-body" style="text-align:center;">
+                          
+                     <h4 class="card-title">
+                                    <a href="#">Connect with Us</a>
+                                </h4>
+                            
+                             <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="#contact">Volunteer</a> <a class="btn btn-dark btn-social mx-2" href="feedingfriends.html"><i class="fab fa-facebook-f"></i></a></p></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
                              <!-- Footer-->
 
