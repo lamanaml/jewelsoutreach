@@ -1,6 +1,6 @@
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
-<form  class="form-control" action="https://jewelsoutreach.us7.list-manage.com/subscribe/post?u=f8fb542db59835608c24db966&amp;id=e0b5c68a86" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form  class="form-control form-group " action="https://jewelsoutreach.us7.list-manage.com/subscribe/post?u=f8fb542db59835608c24db966&amp;id=e0b5c68a86" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	
 <div class="mc-field-group">
