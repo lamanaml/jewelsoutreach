@@ -1,14 +1,27 @@
-
-<label for="mce-LNAME">Last Name </label>
+<!-- Begin Mailchimp Signup Form -->
+<div id="mc_embed_signup">
+<form  class="form-control" action="https://jewelsoutreach.us7.list-manage.com/subscribe/post?u=f8fb542db59835608c24db966&amp;id=e0b5c68a86" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address </label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-FNAME">First Name </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Last Name </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
-<div class="mc-field-group size1of2">
+<!-- <div class="mc-field-group size1of2">
 	<label for="mce-BIRTHDAY-month">Birthday </label>
 	<div class="datefield">
 		<span class="subfield monthfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="BIRTHDAY[month]" id="mce-BIRTHDAY-month"></span> / 
 		<span class="subfield dayfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="BIRTHDAY[day]" id="mce-BIRTHDAY-day"></span> 
 		<span class="small-meta nowrap">( mm / dd )</span>
-	</div>
+	</div> -->
 </div>	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
@@ -18,6 +31,8 @@
     </div>
 </form>
 </div>
+
+<!--End mc_embed_signup-->
 
 <!--End mc_embed_signup-->
 <!-- Contact-->
