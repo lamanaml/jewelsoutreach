@@ -4,7 +4,7 @@
     <div id="mc_embed_signup_scroll">
 	
 
-	<label for="mce-EMAIL">Email Address </label>
+Email Address 
 	<input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" aria-describedby="emailHelp" >
     <span id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
