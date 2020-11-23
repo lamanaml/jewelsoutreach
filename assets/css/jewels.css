@@ -64,7 +64,7 @@ header.masthead3 {
 
 
 @media (min-width: 576px) {
-  .iframe {
+  iframe {
     width:440px; 
     height:280px;
   }
