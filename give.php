@@ -67,10 +67,10 @@
                             
                             <div class="card-body"  >
                                  <h2 class="section-heading text-uppercase">Give</h2>
-                                 <p class="card-text">Because of your support, no matter the amount, our ministry is able to meet the needs of our community in so many ways including providing groceries, cooked meals, clothing, toiletries, and most important, the word of GOD.  </p>
-                                   <p class="card-text">
-                                 We are a 5013C  Non-profit organization, and we kindly accept donations of money, resources and your time.  </p>
-                               
+                                 <p class="card-text">Jewels Networking and Outreach Ministries can only achieve its goals with the assistance of generous donations from people like you. These donations greatly help us serve our brothers and sisters in Christ.  With your help we ae able to serve our community in so many ways including providing groceries, cooked meals, clothing, toiletries, and most important, the word of GOD. We are a 501c3 tax exempt non-profit.  All donations are tax deductible. </p>
+                                  
+                                  <p class="card-text">Please consider a donation to Jewels today. There are a variety of options for giving: </p>
+                                                                 
                             </div>
                         </div>
                     </div>
@@ -82,22 +82,24 @@
                      
 <div>
 
-<p>Give Online</P>
+<h3>Give Online</h3>
   <p class="card-text">
-Give a monthly or one time gift safely and securely online through a credit card or checking account (ACH)
+Give a monthly or one time gift safely and securely online through a credit card or checking account (ACH)    </p>
                                 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://www.paypal.com/donate?hosted_button_id=WY5MAKSL7G54Y">Give Online</a> 
-                                </p></div>
+                            </div>
 
 
  <div>                           
-<p>Give by Cash App</p>
-  <p class="card-text">Give a convienient one time gift through $CashApp</p>
+<h3>Give by Cash App</h3>
+  <p class="card-text">Give a convenient one time gift through $CashApp</p>
 </div>
 <div>
-<p>Give by Mail</p>
+<h3>Give by Mail</h3>
   <p class="card-text">We gratefully accept donations via mail to...</p>
 </div>
-
+<h3>Give in Person</h3>
+  <p class="card-text">Donate with cash in person when you see us at one of events</p>
+</div>
 
 <!-- 
                              <form action="https://www.paypal.com/donate"  style="padding-top:20px" method="post" target="_top">
