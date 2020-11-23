@@ -92,10 +92,12 @@
               <div class="card-body"  >
                 <h2 class="section-heading text-uppercase">Jewels Feeding Friends</h2>
                 <p class="card-text">Jewels Feeding Friends has taken on the mission to help meet needs in our community.
-We connect organizations and volunteers in the community to help provide solutions for the food insecurities in our community. </p>
+We work with organizations and volunteers to help provide solutions for food insecurities in our community. </p>
 
 <h3> 2020 Thanksgiving in the Park!</h3>
+<div class="iframe">
                        <iframe src="https://drive.google.com/file/d/1IPUvZAXaXHpNcr_QtoMEXXAY87DIQefF/preview" ></iframe>
+                       </div>
               </div>
             </div>
         </div>

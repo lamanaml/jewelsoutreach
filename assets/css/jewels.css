@@ -55,17 +55,20 @@ header.masthead3 {
 }
 
 
-iframe {
+.iframe {
   position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+  /* position: relative;
   width:640px; 
-  height:480px;
+  height:480px; */
 
 }
 
 
-@media (min-width: 576px) {
-  iframe {
+/* @media (min-width: 576px) {
+  .iframe {
     width:440px; 
     height:280px;
   }
-}
+} */
