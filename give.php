@@ -69,14 +69,14 @@
             <div class="col-lg-6 mb-4">
               <div class="card h-100" style="border:0px">
                 <div class="card-body" style="text-align:center;">
-                  <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+                  <div class="card text-white bg-warning mb-3" style="max-width: 17rem;">
                     <div class="card-header">Give Online</div>
                     <div class="card-body">
                       <p class="card-text">Give a monthly or one time gift online through a credit card or checking account</p>
                       <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://www.paypal.com/donate?hosted_button_id=WY5MAKSL7G54Y">Give Online</a> 
                   </div>
                 </div>
-                <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
+                <div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
                   <div class="card-header">Give by Cash App</div>
                   <div class="card-body">
                     <h5 class="card-title">$jewelsoutreach</h5>
@@ -85,17 +85,15 @@
                 </div>
 
 
-                <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
+                <div class="card text-white bg-dwarning mb-3" style="max-width: 17rem;">
                   <div class="card-header">Give by Mail</div>
                   <div class="card-body">
-                    <h5 class="card-title">Primary card title</h5>
                     <p class="card-text">We gratefully accept donations via mail to...</p>
                   </div>
                 </div>
-                <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+                <div class="card text-white bg-warning mb-3" style="max-width: 17rem;">
                   <div class="card-header">Give in Person</div>
                   <div class="card-body">
-                    <h5 class="card-title">Secondary card title</h5>
                     <p class="card-text">Donate with cash in person when you see us at one of events</p>
                   </div>
                 </div>
