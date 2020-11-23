@@ -57,7 +57,7 @@
     <section class="page-section" >
         <div class="container2">
           <div class="row">
-            <div class="col-lg-6 mb-4">
+            <div class="col-lg-5 mb-4">
                 <div class="card h-100" style="border:0px">
                   <div class="card-body"  >
                     <h2 class="section-heading text-uppercase">Give</h2>
@@ -66,7 +66,7 @@
                   </div>
                 </div>
               </div>
-            <div class="col-lg-6 mb-4">
+            <div class="col-lg-7 mb-4">
               <div class="card h-100" style="border:0px">
                 <div class="card-body" style="text-align:center;">
                   <div class="card text-white bg-warning mb-3" style="max-width: 16rem;">
