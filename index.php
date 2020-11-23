@@ -85,12 +85,12 @@
                     </div>
                     <div class="col-lg-6 mb-4">
                         <div class="card h-100" style="border:0px">
-                            <a href="feeding.php"><img class="card-img-top" src="assets/img/events/gallery/ffbuffet.jpg" alt=""></a>
+                            <a href="feeding.php"><img class="card-img-top" src="assets/img/ff.gif" alt=""></a>
                             <div class="card-body" style="text-align:center;">
-                            <h4 class="card-title">
+                            <!-- <h4 class="card-title">
                                 <a href="feeding.php">Jewels Feeding Friends</a>
                             </h4>
-                            <p class="card-text">We mobalize Organizations and Volunteers to provide solutions for the food insecurities in our community.</p>
+                            <p class="card-text">We mobalize Organizations and Volunteers to provide solutions for the food insecurities in our community.</p> -->
                             <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="feeding.php">Learn More</a> 
                             </div>
                         </div>
