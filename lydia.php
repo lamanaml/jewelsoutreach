@@ -64,17 +64,17 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="assets/img/events/gallery/dolbusiness.jpg" alt="First slide">
+      <img class="d-block w-100" src="assets/img/events/gallery/dolbusiness.jpg"  style="width=100%" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/events/gallery/dolpark.jpg" alt="Second slide">
+      <img class="d-block w-100" src="assets/img/events/gallery/dolpark.jpg"  style="width=100%"alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/events/gallery/dollake.jpg" alt="Third slide">
+      <img class="d-block w-100" src="assets/img/events/gallery/dollake.jpg" style="width=100%" alt="Third slide">
     </div>
   </div>
   <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/events/gallery/dolhealthfair.jpg" alt="Third slide">
+      <img class="d-block w-100" src="assets/img/events/gallery/dolhealthfair.jpg" style="width=100%" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
