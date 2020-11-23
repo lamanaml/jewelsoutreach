@@ -50,7 +50,7 @@
             <div class="container">
                 <div class="masthead-subheading">Jewels Networking and Outreach</div>
                 <div class="masthead-heading text-uppercase">Ministry Without Walls  </div>
-                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#contact">Prayer Request</a> <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="give.php">Donate</a> 
+                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="contact.php">Prayer Request</a> <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="give.php">Donate</a> 
                 
               
          

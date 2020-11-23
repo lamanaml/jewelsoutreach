@@ -171,7 +171,7 @@
                                     <a href="#">Connect with Us</a>
                                 </h4>
                             
-                             <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="#contact">Volunteer</a> <a class="btn btn-dark btn-social mx-2" href="feedingfriends.html"><i class="fab fa-facebook-f"></i></a></p></div>
+                             <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="contact.php">Volunteer</a> <a class="btn btn-dark btn-social mx-2" href="feedingfriends.html"><i class="fab fa-facebook-f"></i></a></p></div>
                             </div>
                         </div>
                     </div>
