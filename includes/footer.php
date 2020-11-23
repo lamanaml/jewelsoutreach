@@ -20,7 +20,7 @@
 <!--End mc_embed_signup-->
 
 <!-- Contact-->
-        <section class="page-section" id="contact">
+        <section class="page-section" >
             <div class="container">
 
 
