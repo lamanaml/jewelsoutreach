@@ -48,7 +48,7 @@
          <!-- Masthead-->
         <header class="masthead2">
             <div class="container">
-                <div class="masthead-subheading">Jewels Networking and Outreach</div>
+                <!-- <div class="masthead-subheading">Jewels Networking and Outreach</div> -->
                 <div class="masthead-heading text-uppercase">Give to the Ministry </div>
                 
             </div>
