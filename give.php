@@ -82,7 +82,7 @@
                      
 <div>
 
-<h3>Give Online</h3>
+<h4>Give Online</h4>
   <p class="card-text">
 Give a monthly or one time gift safely and securely online through a credit card or checking account (ACH)    </p>
                                 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://www.paypal.com/donate?hosted_button_id=WY5MAKSL7G54Y">Give Online</a> 
@@ -90,23 +90,18 @@ Give a monthly or one time gift safely and securely online through a credit card
 
 
  <div>                           
-<h3>Give by Cash App</h3>
+<h4>Give by Cash App</h4>
   <p class="card-text">Give a convenient one time gift through $CashApp</p>
 </div>
 <div>
-<h3>Give by Mail</h3>
+<h43>Give by Mail</h43>
   <p class="card-text">We gratefully accept donations via mail to...</p>
 </div>
-<h3>Give in Person</h3>
+<h4>Give in Person</h4>
   <p class="card-text">Donate with cash in person when you see us at one of events</p>
 </div>
 
-<!-- 
-                             <form action="https://www.paypal.com/donate"  style="padding-top:20px" method="post" target="_top">
-                    <input type="hidden" name="hosted_button_id" value="WY5MAKSL7G54Y" />
-                    <input type="image" src=""  class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"  border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate" />
 
-                </form> -->
                             </div>
                         </div>
                     </div>
