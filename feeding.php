@@ -93,11 +93,7 @@
                 <h2 class="section-heading text-uppercase">Jewels Feeding Friends</h2>
                 <p class="card-text">We provide solutions for the food insecurities in our community. Jewels Feeding Friends has taken on the mission to help meet needs in our community.
 
-                        <div class="repsonse1">
-  <div class="repsonse2">
-    <img src="https://drive.google.com/file/d/1IPUvZAXaXHpNcr_QtoMEXXAY87DIQefF/view?usp=sharing" class="video" />
-  </div>
-</div>
+                       <iframe src="https://drive.google.com/file/d/1IPUvZAXaXHpNcr_QtoMEXXAY87DIQefF/preview" width="640" height="480"></iframe>
               </div>
             </div>
         </div>
