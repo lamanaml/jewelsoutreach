@@ -69,31 +69,38 @@
             <div class="col-lg-7 mb-4">
               <div class="card h-100" style="border:0px">
                 <div class="card-body" style="text-align:center;">
-                  <div class="card-group">
-
-                    <div class="card text-white bg-warning mb-3" style="max-width: 16rem;">
+                 <div class="row row-cols-1 row-cols-md-2">
+ <div class="col mb-4">
+                    <div class="card text-white bg-warning ">
                       <div class="card-header">Give Online</div>
                       <div class="card-body">
                         <p class="card-text">Give a monthly or one time gift online through a credit card or checking account</p>
                         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://www.paypal.com/donate?hosted_button_id=WY5MAKSL7G54Y">Give Online</a> 
                     </div>
                   </div>
-                  <div class="card text-white bg-warning mb-3" style="max-width: 16rem;">
+                   </div>
+
+                   <div class="col mb-4">
+                  <div class="card text-white bg-warning ">
                     <div class="card-header">Give by Cash App</div>
                     <div class="card-body">
                       <h5 class="card-title">$jewelsoutreach</h5>
                       <p class="card-text">Give a convenient one time gift through $CashApp</p>
                     </div>
                   </div>
+                   </div>
 
-
-                  <div class="card text-white bg-warning mb-3" style="max-width: 16rem;">
+ <div class="col mb-4">
+                  <div class="card text-white bg-warning " >
                     <div class="card-header">Give by Mail</div>
                     <div class="card-body">
                       <p class="card-text">We gratefully accept donations via mail to...</p>
                     </div>
                   </div>
-                  <div class="card text-white bg-warning mb-3" style="max-width: 16rem;">
+                   </div>
+                   
+                   <div class="col mb-4">
+                  <div class="card text-white bg-warning " >
                     <div class="card-header">Give in Person</div>
                     <div class="card-body">
                       <p class="card-text">Donate with cash in person when you see us at one of events</p>
