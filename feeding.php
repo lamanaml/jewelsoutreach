@@ -62,7 +62,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="d-block w-100" src="assets/img/events/gallery/23.jpg"  alt="First slide">
+          <img class="d-block w-100" src="https://drive.google.com/file/d/1IPUvZAXaXHpNcr_QtoMEXXAY87DIQefF/view?usp=sharing"  alt="First slide">
         </div>
         <div class="carousel-item">
           <img class="d-block w-100" src="assets/img/events/gallery/21.jpg" alt="Second slide">
