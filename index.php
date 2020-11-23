@@ -238,22 +238,22 @@
                     </div>   
                  
                     <div class="col-md-3 col-sm-6 my-3">
-                        <a href="http://www.ncdministries.com"><img class="img-fluid d-block mx-auto" src="assets/img/partners/NCDministries2.png" alt="Nakia C Davis Ministries" /></a>
+                        <a href="http://www.ncdministries.com"><img class="img-fluid d-block mx-auto img-partner" src="assets/img/partners/NCDministries2.png" alt="Nakia C Davis Ministries" /></a>
                     </div>   
           
                   
                        <div class="col-md-3 col-sm-6 my-3">
-                        <a href="https://www.sozolifemin.org/"><img class="img-fluid d-block mx-auto" src="assets/img/partners/sozolife.jpg" alt="Sozo Life" /></a>
+                        <a href="https://www.sozolifemin.org/"><img class="img-fluid d-block mx-auto img-partner" src="assets/img/partners/sozolife.jpg" alt="Sozo Life" /></a>
                     </div>   
                     <div class="col-md-3 col-sm-6 my-3">
-                        <a href="https://www.facebook.com/Designed4Purpose"><img class="img-fluid d-block mx-auto" src="assets/img/partners/image2.jpeg" alt="Designed by God" /></a>
+                        <a href="https://www.facebook.com/Designed4Purpose"><img class="img-fluid d-block mx-auto img-partner" src="assets/img/partners/image2.jpeg" alt="Designed by God" /></a>
                     </div>  
                    
                     <div class="col-md-3 col-sm-6 my-3">
-                        <a href="https://www.facebook.com/BarbershopBarbee/"><img class="img-fluid d-block mx-auto" src="assets/img/partners/image0.jpeg" alt="The Barbee Shop" /></a>
+                        <a href="https://www.facebook.com/BarbershopBarbee/"><img class="img-fluid d-block mx-auto img-partner" src="assets/img/partners/image0.jpeg" alt="The Barbee Shop" /></a>
                     </div>   
                           <div class="col-md-3 col-sm-6 my-3">
-                        <a href="https://cozartxperience.square.site/"><img class="img-fluid d-block mx-auto" src="assets/img/partners/image3.jpeg" alt="The CozartXperience" /></a>
+                        <a href="https://cozartxperience.square.site/"><img class="img-fluid d-block mx-auto img-partner" src="assets/img/partners/image3.jpeg" alt="The CozartXperience" /></a>
                     </div>   
                        <!-- <div class="col-md-3 col-sm-6 my-3">
                         <a href="http://shonuffseafood.com/"><img class="img-fluid d-block mx-auto" src="assets/img/partners/shonuffseafood.png" alt="Sho Nuff Seafood" /></a>
