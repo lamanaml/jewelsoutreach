@@ -65,7 +65,7 @@ header.masthead3 {
 
 @media (min-width: 576px) {
   .iframe {
-    widows: 100%;
-    height: auto;
+    width:440px; 
+  height:280px;
   }
 }
