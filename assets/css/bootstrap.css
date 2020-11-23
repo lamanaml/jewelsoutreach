@@ -6119,7 +6119,7 @@ button.bg-danger:focus {
  
 }
 .bg-light2 {
-background-image: -webkit-linear-gradient(rgba(238, 230, 238, 0.973), rgba(200, 217, 219, 0.8)), url('../assets/img/feeding.jpg');
+background-image: -webkit-linear-gradient(rgba(238, 230, 238, 0.973), rgba(200, 217, 219, 0.8)), url('../img/feeding.jpg');
 }
 
 a.bg-light:hover, a.bg-light:focus,
@@ -10105,7 +10105,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/masthead2.png");
+  background-image: url("../img/masthead2.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center left;
