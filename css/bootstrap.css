@@ -5785,7 +5785,7 @@ a.close.disabled {
 }
 
 .carousel {
-  position: fixed;
+  position: absolute;
 }
 
 .carousel.pointer-event {
