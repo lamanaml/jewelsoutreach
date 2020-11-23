@@ -1,11 +1,11 @@
 <!-- Begin Mailchimp Signup Form -->
+<div class="container2" style>
 <div id="mc_embed_signup">
 <form  class=" form-inline " action="https://jewelsoutreach.us7.list-manage.com/subscribe/post?u=f8fb542db59835608c24db966&amp;id=e0b5c68a86" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	
-
-Email Address 
-	<input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" aria-describedby="emailHelp" >
+<h2 class="section-heading text-uppercase">Subscribe for updates!</h2>
+	<input type="email" value="" name="EMAIL" placeholder="Email Address *" class="required email form-control" id="mce-EMAIL" aria-describedby="emailHelp" >
     <span id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
@@ -15,7 +15,7 @@ Email Address
 
 </form>
 </div>
-
+</div>
 <!--End mc_embed_signup-->
 
 <!--End mc_embed_signup-->
