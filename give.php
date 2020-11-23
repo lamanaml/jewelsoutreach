@@ -69,6 +69,36 @@
             <div class="col-lg-6 mb-4">
             <div class="card h-100" style="border:0px">
               <div class="card-body" style="text-align:center;">
+
+<div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
+  <div class="card-header">Header</div>
+  <div class="card-body">
+    <h5 class="card-title">Primary card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+<div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
+  <div class="card-header">Header</div>
+  <div class="card-body">
+    <h5 class="card-title">Secondary card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+<div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+  <div class="card-header">Header</div>
+  <div class="card-body">
+    <h5 class="card-title">Success card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+<div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
+  <div class="card-header">Header</div>
+  <div class="card-body">
+    <h5 class="card-title">Danger card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+
                 <div>
                   <h4>Give Online</h4>
                   <p class="card-text">Give a monthly or one time gift online through a credit card or checking account </p>
