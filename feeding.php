@@ -94,7 +94,7 @@
                 <p class="card-text">Jewels Feeding Friends has taken on the mission to help meet needs in our community.
 We connect organizations and volunteers in the community to help provide solutions for the food insecurities in our community. </p>
 
-<h3>Check out our 2020 Thanksgiving in the Part Event!!</h3>
+<h3> 2020 Thanksgiving in the Park!</h3>
                        <iframe src="https://drive.google.com/file/d/1IPUvZAXaXHpNcr_QtoMEXXAY87DIQefF/preview" width="640" height="480"></iframe>
               </div>
             </div>
@@ -108,6 +108,7 @@ We connect organizations and volunteers in the community to help provide solutio
 <br/>
 <br/>
 <br/>
+<h4>How can you get involved?</h4>
               <p> <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="contact.php">Volunteer</a> </p>
               <p> <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="contact.php">Become a Partner</a> </p>
               <p> <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="donate.php">Make a Donation</a> </p>
