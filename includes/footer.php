@@ -6,9 +6,9 @@
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
-<div id="mc_embed_signup" style="padding:20px;"> 
+<div id="mc_embed_signup" > 
 <form action="https://jewelsoutreach.us7.list-manage.com/subscribe/post?u=f8fb542db59835608c24db966&amp;id=e0b5c68a86" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
+    <div id="mc_embed_signup_scroll" style="padding:20px;">
 	 <h2 class="section-heading text-uppercase">Subscribe for updates!</h2>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
