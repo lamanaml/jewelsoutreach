@@ -225,7 +225,7 @@
                 <h2 class="section-heading text-uppercase">Partners</h2>
                 <div class="row">
                     <div class="col-md-3 col-sm-6 my-3">
-                        <a href="https://foodbankcenc.org/"><img class="img-fluid d-block mx-auto img-partner" src="assets/img/partners/foodbank.jpg" alt="NC Food Bnk" /></a>
+                        <a href="https://foodbankcenc.org/"><img class="img-fluid d-block mx-auto " src="assets/img/partners/foodbank.jpg" alt="NC Food Bnk" /></a>
                     </div>
                     <div class="col-md-3 col-sm-6 my-3">
                         <a href="https://www.kipp.org/"><img class="img-fluid d-block mx-auto img-partner" src="assets/img/partners/Kipplogo.png" alt="Kipp Charter School" /></a>
