@@ -234,7 +234,7 @@
                         <a href="https://www.facebook.com/LOGOSClothingNC/"><img class="img-fluid d-block mx-auto img-partner" src="assets/img/partners/logosclothing.jpg" alt="Logos Clothing" /></a>
                     </div>
                        <div class="col-md-2 col-sm-6 my-3">
-                        <a href="https://www.thrivingfaithnc.com"><img class="img-fluid d-block mx-auto img-partner" src="assets/img/partners/image4.png" alt="Thriving Faith Church" /></a>
+                        <a href="https://www.thrivingfaithnc.com"><img class="img-fluid d-block mx-auto " src="assets/img/partners/image4.png" alt="Thriving Faith Church" /></a>
                     </div>   
                  
                     <div class="col-md-2 col-sm-6 my-3">
