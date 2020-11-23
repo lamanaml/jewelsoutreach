@@ -10,10 +10,10 @@
                     
                     <ul class="navbar-nav text-uppercase ml-auto">
                         <li class="nav-item dropdown">
-      <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+      <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Ministries</a>
       <div class="dropdown-menu">
-        <a class="dropdown-item" href="#one">one</a>
-        <a class="dropdown-item" href="#two">two</a>
+         <a class="dropdown-item " href="lydia.php">Daughters of Lydia</a>
+                            <a class="dropdown-item " href="feeding.php">Jewels Feeding Friends</a>
         <div role="separator" class="dropdown-divider"></div>
         <a class="dropdown-item" href="#three">three</a>
       </div>
@@ -26,12 +26,12 @@
                             <a class="dropdown-item nav-link js-scroll-trigger" href="lydia.php">Daughters of Lydia</a>
                             <a class="dropdown-item nav-link js-scroll-trigger" href="feeding.php">Jewels Feeding Friends</a>
                             
-                        </li>
+                        </li>-->
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#events">Events</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#shop">Shop</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#about">About</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="contact.php">Contact</a></li>
-                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="give.php">Donate</a></li> -->
+                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="give.php">Donate</a></li> 
                     </ul>
                 </div>
             </div>
