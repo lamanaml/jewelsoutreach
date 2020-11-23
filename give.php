@@ -67,7 +67,8 @@
                             
                             <div class="card-body"  >
                                  <h2 class="section-heading text-uppercase">Give</h2>
-                                 <p class="card-text">Donate to the ministry</p>
+                                 <p class="card-text">Because of your support, no matter the amount, our ministry is able to meet the needs of our community in so many ways including providing groceries, cooked meals, clothing, toiletries, and most important, the word of GOD.  </p>
+                                 We are a 5013C  Non-profit organization, and we kindly accept donations of money, resources and your time.  
                                
                             </div>
                         </div>
@@ -77,13 +78,25 @@
                             
                             <div class="card-body" style="text-align:center;">
                           
-                     <h4 class="card-title">
-                                    <a href="#">Donate</a>
-                                </h4>
+                     
+<div>
+
+<p>
+Give Online</P>
+<p>
+Give a monthly or one time gift safely and securely online through a credit card or checking account (ACH)
+                                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://www.paypal.com/donate?hosted_button_id=WY5MAKSL7G54Y">Give Online</a> 
+                                </p></div>
 
 
-                                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://www.paypal.com/donate?hosted_button_id=WY5MAKSL7G54Y">Donate</a> 
-                            
+ <div>                           
+<p>Give by Cash App</p>
+Give a convienient one time gift through $CashApp
+</div>
+<div>
+<p>Give by Mail</p>
+We gratefully accept donations via mail to...
+</div>
 
 
 <!-- 
