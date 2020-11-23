@@ -61,7 +61,7 @@
                 <div class="card h-100" style="border:0px">
                   <div class="card-body"  >
                     <h2 class="section-heading text-uppercase">Give</h2>
-                    <p class="card-text">Jewels Networking and Outreach Ministries can only achieve its goals with the assistance of generous donations from people like you. These donations greatly help us serve our brothers and sisters in Christ.  With your help we ae able to serve our community in so many ways including providing groceries, cooked meals, clothing, toiletries, and most important, the word of GOD. We are a 501c3 tax exempt non-profit.  All donations are tax deductible. </p>
+                    <p class="card-text">Jewels Networking and Outreach Ministries can only achieve its goals with the assistance of generous donations from people like you. These donations greatly help us serve our brothers and sisters in Christ.  With your help we are able to serve our community in so many ways including providing groceries, cooked meals, clothing, toiletries, and most important, the word of GOD. We are a 501c3 tax exempt non-profit.  All donations are tax deductible. </p>
                   </div>
                 </div>
               </div>
