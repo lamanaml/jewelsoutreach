@@ -95,7 +95,7 @@
 We connect organizations and volunteers in the community to help provide solutions for the food insecurities in our community. </p>
 
 <h3> 2020 Thanksgiving in the Park!</h3>
-                       <iframe src="https://drive.google.com/file/d/1IPUvZAXaXHpNcr_QtoMEXXAY87DIQefF/preview" width="640" height="480"></iframe>
+                       <iframe src="https://drive.google.com/file/d/1IPUvZAXaXHpNcr_QtoMEXXAY87DIQefF/preview" ></iframe>
               </div>
             </div>
         </div>
