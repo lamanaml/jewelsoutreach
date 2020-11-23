@@ -91,17 +91,23 @@
             <div class="card h-100" style="border:0px">
               <div class="card-body"  >
                 <h2 class="section-heading text-uppercase">Jewels Feeding Friends</h2>
-                <p class="card-text">We provide solutions for the food insecurities in our community. Jewels Feeding Friends has taken on the mission to help meet needs in our community.
+                <p class="card-text">Jewels Feeding Friends has taken on the mission to help meet needs in our community.
+We connect organizations and volunteers in the community to help provide solutions for the food insecurities in our community. 
 
+Check out our 2020 Thanksgiving in the Part Event!!
                        <iframe src="https://drive.google.com/file/d/1IPUvZAXaXHpNcr_QtoMEXXAY87DIQefF/preview" width="640" height="480"></iframe>
               </div>
             </div>
         </div>
         <div class="col-lg-5 mb-4">
+
             <div class="card h-100" style="border:0px">
               <div class="card-body" style="text-align:center;">
 
+
               <p> <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="contact.php">Volunteer</a> </p>
+              <p> <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="contact.php">Become a Partner</a> </p>
+              <p> <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="donate.php">Make a Donation</a> </p>
               <p> <a class="btn btn-dark btn-social mx-2" href="feedingfriends.html"><i class="fab fa-facebook-f"></i></a></p></div>
               </div>
             </div>
