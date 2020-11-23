@@ -75,7 +75,7 @@
                       <div class="card-header">Give Online</div>
                       <div class="card-body">
                         <p class="card-text">Give a monthly or one time gift online through a credit card or checking account</p>
-                        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://www.paypal.com/donate?hosted_button_id=WY5MAKSL7G54Y">Give Online</a> 
+                        <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://www.paypal.com/donate?hosted_button_id=WY5MAKSL7G54Y">Give Online</a> 
                     </div>
                   </div>
                    </div>
