@@ -1,7 +1,7 @@
 <!-- Begin Mailchimp Signup Form -->
 <div class="container2" style="background-color:pink;">
-    <div id="mc_embed_signup">
-        <form  class=" form-inline " action="https://jewelsoutreach.us7.list-manage.com/subscribe/post?u=f8fb542db59835608c24db966&amp;id=e0b5c68a86" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div >
+        <form  class="form-inline" action="https://jewelsoutreach.us7.list-manage.com/subscribe/post?u=f8fb542db59835608c24db966&amp;id=e0b5c68a86" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
             <div id="mc_embed_signup_scroll">
             
         <h2 class="section-heading text-uppercase">Subscribe for updates!</h2>
