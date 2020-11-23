@@ -62,18 +62,18 @@
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
   </ol>
-  <div class="carousel-inner">
+  <div class="carousel-inner"style="width=100%">
     <div class="carousel-item active">
       <img class="d-block w-100" src="assets/img/events/gallery/dolbusiness.jpg"  style="width=100%" alt="First slide">
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item" style="width=100%">
       <img class="d-block w-100" src="assets/img/events/gallery/dolpark.jpg"  style="width=100%"alt="Second slide">
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item" style="width=100%">
       <img class="d-block w-100" src="assets/img/events/gallery/dollake.jpg" style="width=100%" alt="Third slide">
     </div>
   </div>
-  <div class="carousel-item">
+  <div class="carousel-item" style="width=100%">
       <img class="d-block w-100" src="assets/img/events/gallery/dolhealthfair.jpg" style="width=100%" alt="Third slide">
     </div>
   </div>
