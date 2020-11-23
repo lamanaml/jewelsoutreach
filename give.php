@@ -40,108 +40,80 @@
     </head>
 
 
-    <!-- <body id="page-top">-->
-        <!-- Navigation-->
-               <?php 
-            include 'includes/nav.php';
-        ?> 
-         <!-- Masthead-->
-        <header class="masthead2">
-            <div class="container">
-                <!-- <div class="masthead-subheading">Jewels Networking and Outreach</div> -->
-                <div class="masthead-heading text-uppercase">Give to the Ministry </div>
-                
-            </div>
-        </header>
-        <!-- Services -->
-
-
-
-
-        <section class="page-section" >
-            <div class="container2">
-               
-                <div class="row">
-                    <div class="col-lg-6 mb-4">
-                        <div class="card h-100" style="border:0px">
-                            
-                            <div class="card-body"  >
-                                 <h2 class="section-heading text-uppercase">Give</h2>
-                                 <p class="card-text">Jewels Networking and Outreach Ministries can only achieve its goals with the assistance of generous donations from people like you. These donations greatly help us serve our brothers and sisters in Christ.  With your help we ae able to serve our community in so many ways including providing groceries, cooked meals, clothing, toiletries, and most important, the word of GOD. We are a 501c3 tax exempt non-profit.  All donations are tax deductible. </p>
-                                  
-                                  <p class="card-text">Please consider a donation to Jewels today. There are a variety of options for giving: </p>
-                                                                 
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 mb-4">
-                        <div class="card h-100" style="border:0px">
-                            
-                            <div class="card-body" style="text-align:center;">
-                          
-                     
-<div>
-
-<h4>Give Online</h4>
-  <p class="card-text">
-Give a monthly or one time gift safely and securely online through a credit card or checking account (ACH)    </p>
-                                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://www.paypal.com/donate?hosted_button_id=WY5MAKSL7G54Y">Give Online</a> 
-                            </div>
-
-
- <div>                           
-<h4>Give by Cash App</h4>
-  <p class="card-text">Give a convenient one time gift through $CashApp</p>
-</div>
-<div>
-<h43>Give by Mail</h43>
-  <p class="card-text">We gratefully accept donations via mail to...</p>
-</div>
-<h4>Give in Person</h4>
-  <p class="card-text">Donate with cash in person when you see us at one of events</p>
-</div>
-
-
-                            </div>
-                        </div>
-                    </div>
+<!-- <body id="page-top">-->
+    <!-- Navigation-->
+      <?php 
+        include 'includes/nav.php';
+      ?> 
+    <!-- Masthead-->
+    <header class="masthead2">
+      <div class="container">
+        <!-- <div class="masthead-subheading">Jewels Networking and Outreach</div> -->
+        <div class="masthead-heading text-uppercase">Give to the Ministry </div>
+      </div>
+    </header>
+   
+    <!-- Services -->
+    <section class="page-section" >
+        <div class="container2">
+          <div class="row">
+            <div class="col-lg-6 mb-4">
+                <div class="card h-100" style="border:0px">
+                  <div class="card-body"  >
+                    <h2 class="section-heading text-uppercase">Give</h2>
+                    <p class="card-text">Jewels Networking and Outreach Ministries can only achieve its goals with the assistance of generous donations from people like you. These donations greatly help us serve our brothers and sisters in Christ.  With your help we ae able to serve our community in so many ways including providing groceries, cooked meals, clothing, toiletries, and most important, the word of GOD. We are a 501c3 tax exempt non-profit.  All donations are tax deductible. </p>
+                    <p class="card-text">Please consider a donation to Jewels today. There are a variety of options for giving: </p>
+                  </div>
                 </div>
+              </div>
+            <div class="col-lg-6 mb-4">
+            <div class="card h-100" style="border:0px">
+              <div class="card-body" style="text-align:center;">
+                <div>
+                  <h4>Give Online</h4>
+                  <p class="card-text">Give a monthly or one time gift online through a credit card or checking account </p>
+                  <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://www.paypal.com/donate?hosted_button_id=WY5MAKSL7G54Y">Give Online</a> 
+                </div>
+
+                <div>                           
+                  <h4>Give by Cash App</h4>
+                  <p class="card-text">Give a convenient one time gift through $CashApp</p>
+                </div>
+                <div>
+                  <h4>Give by Mail</h4>
+                  <p class="card-text">We gratefully accept donations via mail to...</p>
+                </div>
+
+                <div>
+                <h4>Give in Person</h4>
+                  <p class="card-text">Donate with cash in person when you see us at one of events</p>
+                </div>
+
+              </div>
             </div>
-        </section>
+          </div>
+        </div>
+      </div>
+    </section>
 
 
  <!-- Footer-->
 
     <?php 
-            include 'includes/footer.php';
-        ?>
+      include 'includes/footer.php';
+    ?>
         
 
-        <!-- Bootstrap core JS-->
-         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
-      
-      
-       
-          <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
-        
-    
-        <!-- Third party plugin JS-->
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js" integrity="sha512-IQLehpLoVS4fNzl7IfH8Iowfm5+RiMGtHykgZJl9AWMgqx0AmJ6cRWcB+GaGVtIsnC4voMfm8f2vwtY+6oPjpQ==" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
-        
-        <!-- Contact form JS-->
-        <script src="assets/mail/jqBootstrapValidation.js"></script>
-        <script src="assets/mail/contact_me.js"></script>
-        <!-- Core theme JS-->
-               
-        <script src="js/scripts.js"></script>
+    <!-- Bootstrap core JS-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+  
+    <!-- Contact form JS-->
+    <script src="assets/mail/jqBootstrapValidation.js"></script>
+    <script src="assets/mail/contact_me.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
 
-        
-        
-   
-
-    </body>
+  </body>
 </html>
 
