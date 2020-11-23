@@ -10,10 +10,10 @@
                     <ul class="navbar-nav text-uppercase ml-auto">
                         
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle js-scroll-trigger" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <a class="nav-link dropdown-toggle js-scroll-trigger" id="navbarDropdownMenuLink" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                            Ministries
                             </a>
-                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <a class="dropdown-item nav-link js-scroll-trigger" href="lydia.php">Daughters of Lydia</a>
                             <a class="dropdown-item nav-link js-scroll-trigger" href="feeding.php">Jewels Feeding Friends</a>
                             
