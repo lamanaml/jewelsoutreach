@@ -5940,7 +5940,7 @@ a.close.disabled {
   background-clip: padding-box;
   border-top: 10px solid transparent;
   border-bottom: 10px solid transparent;
-  opacity: 0.7;
+  opacity: 1;
   transition: opacity 0.6s ease;
 }
 @media (prefers-reduced-motion: reduce) {
