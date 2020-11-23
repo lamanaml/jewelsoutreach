@@ -53,7 +53,7 @@
                 
             </div>
         </header>
-        <!-- Services -->
+        <!-- Carousel -->
     
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -108,7 +108,7 @@
                             
                             <div class="card-body" style="text-align:center;">
                           
-                     <h4 class="card-title"> Connect with Us </h4>
+                    
                             
                             <p ><a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://www.facebook.com/groups/1293304504162255">Join our group</a> </p>
                             <p class="card-text"><a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/DaughtersLYDIA"><i class="fab fa-facebook-f"></i></a> </p>

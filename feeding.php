@@ -44,171 +44,89 @@
           <?php 
           include 'includes/nav.php';
         ?>
-        <!-- Masthead-->
+    <!-- Masthead-->
+    <header class="masthead2">
+      <div class="container">
+        <div class="masthead-heading text-uppercase">Jewels Feeding Friends </div>
+      </div>
+    </header>
 
 
-        <main class="main-content">
-  <section class="slideshow">
-    <div class="slideshow-inner">
-      <div class="slides">
-        <div class="slide is-active ">
-          <div class="slide-content">
-            <div class="caption">
-                   <div class="title">Jewels Feeding Friends </div>
-              <div class="text">
-                <!-- <p>Business Owners Networking</p> -->
-              </div> 
-          
-            </div>
-          </div>
-          <div class="image-container"> 
-            <img src="assets/img/events/feeding.jpg" alt="" class="image" />
-          </div>
-        </div>
 
 
-        <div class="slide">
-          <div class="slide-content">
-            <div class="caption">
-              <div class="title">Jewels Feeding Friends </div>
-              <!-- <div class="text">
-                <p>Brainstorming on the Lake</p>
-              </div> 
-              -->
-            </div>
-          </div>
-          <div class="image-container">
-            <img src="assets/img/events/gallery/23.jpg" alt="" class="image" />
-          </div>
-        </div>
+
+
+<!-- Carousel -->
+
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
         
-        <div class="slide">
-          <div class="slide-content">
-            <div class="caption">
-              <div class="title">Jewels Feeding Friends </div>
-              <!-- <div class="text">
-                <p>Brainstorming on the Lake</p>
-              </div> 
-              -->
-            </div>
-          </div>
-          <div class="image-container">
-            <img src="assets/img/events/gallery/21.jpg" alt="" class="image" />
-          </div>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img class="d-block w-100" src="assets/img/events/gallery/23.jpg"  alt="First slide">
         </div>
-        <div class="slide">
-          <div class="slide-content">
-            <div class="caption">
-             <div class="title">Jewels Feeding Friends </div>
-              <!-- <div class="text">
-                <p>Holistic Health Fair</p>
-              </div>  -->
-            
+        <div class="carousel-item">
+          <img class="d-block w-100" src="assets/img/events/gallery/21.jpg" alt="Second slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="assets/img/events/gallery/25.jpg" alt="Third slide">
+        </div>
+      </div>
+      
+      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+
+        
+  <!-- main content-->
+    <section class="page-section" >
+      <div class="container2">
+        <div class="row">
+          <div class="col-lg-6 mb-4">
+            <div class="card h-100" style="border:0px">
+              <div class="card-body"  >
+                <h2 class="section-heading text-uppercase">Jewels Feeding Friends</h2>
+                <p class="card-text">We provide solutions for the food insecurities in our community. Jewels Feeding Friends has taken on the mission to help meet needs in our community for 
+              </div>
             </div>
-          </div>
-          <div class="image-container"> 
-            <img src="assets/img/events/gallery/25.jpg" alt="" class="image" />
+        </div>
+        <div class="col-lg-6 mb-4">
+            <div class="card h-100" style="border:0px">
+              <div class="card-body" style="text-align:center;">
+
+              <p> <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="contact.php">Volunteer</a> </p>
+              <p> <a class="btn btn-dark btn-social mx-2" href="feedingfriends.html"><i class="fab fa-facebook-f"></i></a></p></div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-      <div class="pagination">
-        <div class="item is-active"> 
-          <span class="icon">1</span>
-        </div>
-        <div class="item">
-          <span class="icon">2</span>
-        </div>
-        <div class="item">
-          <span class="icon">3</span>
-        </div>
-        <div class="item">
-          <span class="icon">4</span>
-        </div>
-      </div>
-      <div class="arrows">
-        <div class="arrow prev">
-          <span class="svg svg-arrow-left">
-            <svg version="1.1" id="svg4-Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="14px" height="26px" viewBox="0 0 14 26" enable-background="new 0 0 14 26" xml:space="preserve"> <path d="M13,26c-0.256,0-0.512-0.098-0.707-0.293l-12-12c-0.391-0.391-0.391-1.023,0-1.414l12-12c0.391-0.391,1.023-0.391,1.414,0s0.391,1.023,0,1.414L2.414,13l11.293,11.293c0.391,0.391,0.391,1.023,0,1.414C13.512,25.902,13.256,26,13,26z"/> </svg>
-            <span class="alt sr-only"></span>
-          </span>
-        </div>
-        <div class="arrow next">
-          <span class="svg svg-arrow-right">
-            <svg version="1.1" id="svg5-Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="14px" height="26px" viewBox="0 0 14 26" enable-background="new 0 0 14 26" xml:space="preserve"> <path d="M1,0c0.256,0,0.512,0.098,0.707,0.293l12,12c0.391,0.391,0.391,1.023,0,1.414l-12,12c-0.391,0.391-1.023,0.391-1.414,0s-0.391-1.023,0-1.414L11.586,13L0.293,1.707c-0.391-0.391-0.391-1.023,0-1.414C0.488,0.098,0.744,0,1,0z"/> </svg>
-            <span class="alt sr-only"></span>
-          </span>
-        </div>
-      </div>
-    </div> 
+    </section>
 
-        </section>
-        </main>
-        
-        <!-- Services-->
+<!-- Footer-->
 
-
-
-        <section class="page-section" >
-            <div class="container2">
-               
-                <div class="row">
-                    <div class="col-lg-6 mb-4">
-                        <div class="card h-100" style="border:0px">
-                            
-                            <div class="card-body"  >
-                                 <h2 class="section-heading text-uppercase">Jewels Feeding Friends</h2>
-                                 <p class="card-text">We provide solutions for the food insecurities in our community. Jewels Feeding Friends has taken on the mission to help meet needs in our community for men, women, children of all ages and walks of life. Through partnerships, we are able to help combat this growing epidemic of hunger.</p>
-                               
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 mb-4">
-                        <div class="card h-100" style="border:0px">
-                            
-                            <div class="card-body" style="text-align:center;">
-                          
-                     <h4 class="card-title">
-                                    <a href="#">Connect with Us</a>
-                                </h4>
-                            
-                             <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="contact.php">Volunteer</a> <a class="btn btn-dark btn-social mx-2" href="feedingfriends.html"><i class="fab fa-facebook-f"></i></a></p></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-                             <!-- Footer-->
-
-               <?php 
-            include 'includes/footer.php';
-        ?>
-        
-        <!-- Bootstrap core JS-->
-         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
-      
-      
-       
-          <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
-        
-    
-        <!-- Third party plugin JS-->
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js" integrity="sha512-IQLehpLoVS4fNzl7IfH8Iowfm5+RiMGtHykgZJl9AWMgqx0AmJ6cRWcB+GaGVtIsnC4voMfm8f2vwtY+6oPjpQ==" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
-        
-        <!-- Contact form JS-->
-        <script src="assets/mail/jqBootstrapValidation.js"></script>
-        <script src="assets/mail/contact_me.js"></script>
-        <!-- Core theme JS-->
-               
-        <script src="js/scripts.js"></script>
-
-        
-        
-
-    </body>
+    <?php 
+      include 'includes/footer.php';
+    ?>
+  
+    <!-- Bootstrap core JS-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+    <!-- Contact form JS-->
+    <script src="assets/mail/jqBootstrapValidation.js"></script>
+    <script src="assets/mail/contact_me.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
+  </body>
 </html>
 
