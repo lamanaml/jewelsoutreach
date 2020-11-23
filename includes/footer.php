@@ -25,7 +25,7 @@ Email Address
 
 
 <!--End mc_embed_signup-->
-                <!-- <div class="text-center">
+                <div class="text-center">
                     <h2 class="section-heading text-uppercase">Prayer Request or Contact Us</h2>
                     <h3 class="section-subheading text-muted">In need of prayer for yourself or someone you know?  Email us below or call us at (919) 438-0374</h3>
                 </div>
@@ -58,7 +58,7 @@ Email Address
                     </div>
                 </form>
             </div>
-        </section> -->
+        </section> 
         <!-- Footer-->
         <footer class="footer py-4">
             <div class="container">
