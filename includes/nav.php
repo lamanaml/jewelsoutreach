@@ -6,7 +6,8 @@
                     Menu
                     <i class="fas fa-bars ml-1"></i>
                 </button>
-                <div class="collapse navbar-collapse"  id="navbarNavDropdown">>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                     <div class="collapse navbar-collapse"  id="navbarNavDropdown">
                     <ul class="navbar-nav text-uppercase ml-auto">
                         
                         <li class="nav-item dropdown">
@@ -24,6 +25,7 @@
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="contact.php">Contact</a></li>
                          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="give.php">Donate</a></li>
                     </ul>
+                    </div>
                 </div>
             </div>
         </nav>
