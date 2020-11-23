@@ -35,7 +35,7 @@
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <link href="css/bootstrap.css" rel="stylesheet" />
         <link href="css/jewels.css" rel="stylesheet" />
-        <!-- <link href="css/dist/slides.css" rel="stylesheet" /> -->
+
 
     </head>
 
@@ -87,99 +87,6 @@
   </a>
 </div>
 
-<!-- 
-<main class="main-content">
-  <section class="slideshow">
-    <div class="slideshow-inner">
-      <div class="slides">
-        <div class="slide is-active ">
-          <div class="slide-content">
-            <div class="caption">
-                   <div class="title">Daughters of Lydia</div>
-              <div class="text">
-                <p>Business Owners Networking</p>
-              </div> 
-          
-            </div>
-          </div>
-          <div class="image-container"> 
-            <img src="assets/img/events/gallery/dolbusiness.jpg" alt="" class="image" />
-          </div>
-        </div>
-        <div class="slide">
-          <div class="slide-content">
-            <div class="caption">
-                    <div class="title">Daughters of Lydia</div>
-              <div class="text">
-                <p>Fellowship at the Park</p>
-              </div> 
-             
-            </div>
-          </div>
-          <div class="image-container">
-            <img src="assets/img/events/gallery/dolpark.jpg" alt="" class="image" />
-          </div>
-        </div>
-        <div class="slide">
-          <div class="slide-content">
-            <div class="caption">
-              <div class="title">Daughters of Lydia</div>
-              <div class="text">
-                <p>Brainstorming on the Lake</p>
-              </div> 
-             
-            </div>
-          </div>
-          <div class="image-container">
-            <img src="assets/img/events/gallery/dollake.jpg" alt="" class="image" />
-          </div>
-        </div>
-        <div class="slide">
-          <div class="slide-content">
-            <div class="caption">
-              <div class="title">Daughters of Lydia</div>
-              <div class="text">
-                <p>Holistic Health Fair</p>
-              </div> 
-            
-            </div>
-          </div>
-          <div class="image-container"> 
-            <img src="assets/img/events/gallery/dolhealthfair.jpg" alt="" class="image" />
-          </div>
-        </div>
-      </div>
-      <div class="pagination">
-        <div class="item is-active"> 
-          <span class="icon">1</span>
-        </div>
-        <div class="item">
-          <span class="icon">2</span>
-        </div>
-        <div class="item">
-          <span class="icon">3</span>
-        </div>
-        <div class="item">
-          <span class="icon">4</span>
-        </div>
-      </div>
-      <div class="arrows">
-        <div class="arrow prev">
-          <span class="svg svg-arrow-left">
-            <svg version="1.1" id="svg4-Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="14px" height="26px" viewBox="0 0 14 26" enable-background="new 0 0 14 26" xml:space="preserve"> <path d="M13,26c-0.256,0-0.512-0.098-0.707-0.293l-12-12c-0.391-0.391-0.391-1.023,0-1.414l12-12c0.391-0.391,1.023-0.391,1.414,0s0.391,1.023,0,1.414L2.414,13l11.293,11.293c0.391,0.391,0.391,1.023,0,1.414C13.512,25.902,13.256,26,13,26z"/> </svg>
-            <span class="alt sr-only"></span>
-          </span>
-        </div>
-        <div class="arrow next">
-          <span class="svg svg-arrow-right">
-            <svg version="1.1" id="svg5-Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="14px" height="26px" viewBox="0 0 14 26" enable-background="new 0 0 14 26" xml:space="preserve"> <path d="M1,0c0.256,0,0.512,0.098,0.707,0.293l12,12c0.391,0.391,0.391,1.023,0,1.414l-12,12c-0.391,0.391-1.023,0.391-1.414,0s-0.391-1.023,0-1.414L11.586,13L0.293,1.707c-0.391-0.391-0.391-1.023,0-1.414C0.488,0.098,0.744,0,1,0z"/> </svg>
-            <span class="alt sr-only"></span>
-          </span>
-        </div>
-      </div>
-    </div> 
-  </section>
-</main> -->
 
 
         <section class="page-section" >
@@ -201,11 +108,9 @@
                             
                             <div class="card-body" style="text-align:center;">
                           
-                     <h4 class="card-title">
-                                    <a href="#">Connect with Us</a>
-                                </h4>
+                     <h4 class="card-title"> Connect with Us </h4>
                             
-                            <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://www.facebook.com/groups/1293304504162255">Join our group</a> 
+                            <p ><a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://www.facebook.com/groups/1293304504162255">Join our group</a> </p>
                             <p class="card-text"><a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/DaughtersLYDIA"><i class="fab fa-facebook-f"></i></a> </p>
                             </div>
                         </div>
@@ -243,7 +148,7 @@
                
         <script src="js/scripts.js"></script>
 
-        <script src="js/dist/slides.dev.js"></script>
+
         
    
 
