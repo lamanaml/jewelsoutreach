@@ -80,12 +80,18 @@
                      <h4 class="card-title">
                                     <a href="#">Donate</a>
                                 </h4>
+
+
+                                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://www.paypal.com/donate?hosted_button_id=WY5MAKSL7G54Y">Donate</a> 
                             
+
+
+<!-- 
                              <form action="https://www.paypal.com/donate"  style="padding-top:20px" method="post" target="_top">
                     <input type="hidden" name="hosted_button_id" value="WY5MAKSL7G54Y" />
                     <input type="image" src=""  class="btn btn-primary btn-xl text-uppercase js-scroll-trigger"  border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate" />
 
-                </form>
+                </form> -->
                             </div>
                         </div>
                     </div>

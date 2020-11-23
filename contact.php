@@ -65,7 +65,11 @@
                     <!-- <h2 class="section-heading text-uppercase">Prayer Request or Contact Us</h2> -->
                     <h3 class="section-subheading text-muted">In need of prayer for yourself or someone you know?  Email us below or call us at (919) 438-0374</h3>
                 </div>
-                <form id="contactForm" name="sentMessage" novalidate="novalidate">
+
+
+
+                https://us7.list-manage.com/contact-form?u=f8fb542db59835608c24db966&form_id=272a51c4fc8761bf753113a9188d5253
+                <!-- <form id="contactForm" name="sentMessage" novalidate="novalidate">
                     <div class="row align-items-stretch mb-5">
                         <div class="col-md-6">
                             <div class="form-group">
@@ -94,7 +98,7 @@
                     </div>
                 </form>
             </div>
-        </section> 
+        </section>  -->
  <!-- Footer-->
 
     <?php 
