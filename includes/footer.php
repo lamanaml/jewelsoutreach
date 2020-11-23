@@ -16,6 +16,7 @@
         </form>
     </div>
 </div>
+</div>
 <!--End mc_embed_signup-->
 
 <!--End mc_embed_signup-->
