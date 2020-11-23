@@ -10,15 +10,13 @@
                     
                     <ul class="navbar-nav text-uppercase ml-auto">
                         <li class="nav-item dropdown">
-      <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Ministries</a>
-      <div class="dropdown-menu">
-         <a class="dropdown-item " href="lydia.php">Daughters of Lydia</a>
-                            <a class="dropdown-item " href="feeding.php">Jewels Feeding Friends</a>
-        <div role="separator" class="dropdown-divider"></div>
-        <a class="dropdown-item" href="#three">three</a>
-      </div>
-    </li>
-                        <!-- <li class="nav-item dropdown">
+                          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Ministries</a>
+                          <div class="dropdown-menu">
+                            <a class="dropdown-item" href="lydia.php">Daughters of Lydia</a>
+                            <a class="dropdown-item" href="feeding.php">Jewels Feeding Friends</a>
+                          </div>
+                        </li>
+                                            <!-- <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle js-scroll-trigger" id="navbarDropdownMenuLink" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                            Ministries
                             </a>
