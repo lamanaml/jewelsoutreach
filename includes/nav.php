@@ -1,5 +1,5 @@
  <!-- Navigation-->
-        <!-- <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top" >
             <div class="container">
                 <a class="navbar-brand js-scroll-trigger" href="index.php#page-top">Jewels Outreach</a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -15,8 +15,8 @@
                            Ministries
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item nav-link js-scroll-trigger" href="lydia.php">Daughters of Lydia</a>
-                            <a class="dropdown-item nav-link js-scroll-trigger" href="feeding.php">Jewels Feeding Friends</a>
+                            <a class="dropdown-item nav-link " href="lydia.php">Daughters of Lydia</a>
+                            <a class="dropdown-item nav-link " href="feeding.php">Jewels Feeding Friends</a>
                             
                         </li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#events">Events</a></li>
@@ -27,9 +27,9 @@
                     </ul>
                 </div>
             </div>
-        </nav> -->
+        </nav>
 
-
+<!-- 
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">Navbar</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -58,4 +58,4 @@
       </li>
     </ul>
   </div>
-</nav>
+</nav> -->

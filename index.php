@@ -33,8 +33,8 @@
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-        <link href="css/bootstrap.css" rel="stylesheet" />
-        <link href="css/jewels.css" rel="stylesheet" />
+        <link href="assets/css/bootstrap.css" rel="stylesheet" />
+        <link href="assets/css/jewels.css" rel="stylesheet" />
 
     </head>
 
@@ -436,7 +436,7 @@
         <script src="assets/mail/jqBootstrapValidation.js"></script>
         <script src="assets/mail/contact_me.js"></script>
         <!-- Core theme JS-->
-        <script src="js/scripts.js"></script>
+        <script src="assets/js/scripts.js"></script>
 
     </body>
 </html>
