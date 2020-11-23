@@ -87,17 +87,17 @@
     <section class="page-section" >
       <div class="container2">
         <div class="row">
-          <div class="col-lg-6 mb-4">
+          <div class="col-lg-7 mb-4">
             <div class="card h-100" style="border:0px">
               <div class="card-body"  >
                 <h2 class="section-heading text-uppercase">Jewels Feeding Friends</h2>
                 <p class="card-text">We provide solutions for the food insecurities in our community. Jewels Feeding Friends has taken on the mission to help meet needs in our community.
 
-                       <iframe src="https://drive.google.com/file/d/1IPUvZAXaXHpNcr_QtoMEXXAY87DIQefF/preview" width="640" height="480"></iframe>
+                       <iframe src="https://drive.google.com/file/d/1IPUvZAXaXHpNcr_QtoMEXXAY87DIQefF/preview" width="640" ></iframe>
               </div>
             </div>
         </div>
-        <div class="col-lg-6 mb-4">
+        <div class="col-lg-5 mb-4">
             <div class="card h-100" style="border:0px">
               <div class="card-body" style="text-align:center;">
 
