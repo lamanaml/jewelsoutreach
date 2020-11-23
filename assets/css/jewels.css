@@ -65,7 +65,7 @@ iframe {
 
 @media (max-width: 576px) {
   iframe {
-    width:440px; 
-    height:280px;
+    width:100%; 
+    height:auto;
   }
 } 
