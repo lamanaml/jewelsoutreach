@@ -22,6 +22,7 @@
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#shop">Shop</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#about">About</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="contact.php">Contact</a></li>
+                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="give.php">Donate</a></li>
                     </ul>
                 </div>
             </div>
