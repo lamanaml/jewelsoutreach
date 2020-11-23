@@ -75,10 +75,10 @@
                         <div class="card h-100" style="border:0px">
                             <a href="lydia.php"><img class="card-img-top" src="assets/img/dol.gif" alt=""></a>
                             <div class="card-body"  style="text-align:center;">
-                                <h4 class="card-title">
+                                <!-- <h4 class="card-title">
                                     <a href="lydia.php">Daughters of Lydia</a>
                                 </h4>
-                                <p class="card-text">Women Entrepreneurs coming together for Networking and Collective Philanthropy.</p>
+                                <p class="card-text">Women Entrepreneurs coming together for Networking and Collective Philanthropy.</p> -->
                                 <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="lydia.php">Learn More</a> 
                             </div>
                         </div>
