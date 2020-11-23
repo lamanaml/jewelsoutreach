@@ -6,7 +6,7 @@
                     Menu
                     <i class="fas fa-bars ml-1"></i>
                 </button>
-                <div class="collapse navbar-collapse" id="navbarResponsive">
+                <div class="collapse navbar-collapse"  id="navbarNavDropdown">>
                     <ul class="navbar-nav text-uppercase ml-auto">
                         
                         <li class="nav-item dropdown">
@@ -14,8 +14,8 @@
                            Ministries
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item " href="lydia.php">Daughters of Lydia</a>
-                            <a class="dropdown-item " href="feeding.php">Jewels Feeding Friends</a>
+                            <a class="dropdown-item nav-link js-scroll-trigger" href="lydia.php">Daughters of Lydia</a>
+                            <a class="dropdown-item nav-link js-scroll-trigger" href="feeding.php">Jewels Feeding Friends</a>
                             
                         </li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#events">Events</a></li>
