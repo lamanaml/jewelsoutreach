@@ -62,7 +62,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="d-block w-100" src="https://drive.google.com/file/d/1IPUvZAXaXHpNcr_QtoMEXXAY87DIQefF/view?usp=sharing"  alt="First slide">
+          <img class="d-block w-100" src="assets/img/events/gallery/23.jpg"  alt="First slide">
         </div>
         <div class="carousel-item">
           <img class="d-block w-100" src="assets/img/events/gallery/21.jpg" alt="Second slide">
@@ -91,7 +91,13 @@
             <div class="card h-100" style="border:0px">
               <div class="card-body"  >
                 <h2 class="section-heading text-uppercase">Jewels Feeding Friends</h2>
-                <p class="card-text">We provide solutions for the food insecurities in our community. Jewels Feeding Friends has taken on the mission to help meet needs in our community for 
+                <p class="card-text">We provide solutions for the food insecurities in our community. Jewels Feeding Friends has taken on the mission to help meet needs in our community.
+
+                        <div class="repsonse1">
+  <div class="repsonse2">
+    <img src="https://drive.google.com/file/d/1IPUvZAXaXHpNcr_QtoMEXXAY87DIQefF/view?usp=sharing" class="video" />
+  </div>
+</div>
               </div>
             </div>
         </div>
