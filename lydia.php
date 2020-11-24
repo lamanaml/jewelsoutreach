@@ -39,126 +39,95 @@
 
     </head>
 
+  <!-- Navigation-->
+      <?php 
+        include 'includes/nav.php';
+      ?> 
+    <!-- Masthead-->
+    <header class="masthead2">
+        <div class="container">
+          <!-- <div class="masthead-subheading">Jewels Networking and Outreach</div> -->
+          <div class="masthead-heading text-uppercase">Daughters of Lydia </div>
+        </div>
+    </header>
 
-    <!-- <body id="page-top">-->
-        <!-- Navigation-->
-               <?php 
-            include 'includes/nav.php';
-        ?> 
-         <!-- Masthead-->
-        <header class="masthead2">
-            <div class="container">
-                <!-- <div class="masthead-subheading">Jewels Networking and Outreach</div> -->
-                <div class="masthead-heading text-uppercase">Daughters of Lydia </div>
-                
+    <!-- Carousel -->    
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img class="d-block w-100" src="assets/img/events/gallery/dolbusiness.jpg"  alt="First slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="assets/img/events/gallery/dolpark.jpg" alt="Second slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="assets/img/events/gallery/dollake.jpg" alt="Third slide">
+        </div>
+      </div>
+      <div class="carousel-item">
+          <img class="d-block w-100" src="assets/img/events/gallery/dolhealthfair.jpg" alt="Third slide">
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+
+
+<!-- main content -->
+    <section class="page-section" >
+      <div class="container2">
+        <div class="row">
+          <div class="col-lg-6 mb-4">
+            <div class="card h-100" style="border:0px">
+              <div class="card-body"  >
+                <h2 class="section-heading text-uppercase">Daughters of Lydia</h2>
+                <p class="card-text">Women Entrepreneurs coming together for Networking and Collective Philanthropy!</p>
+                <p class="card-text">The Daughter's of LYDIA are women with Purpose! Business Women that God uses use to help fund Kingdom Assignments on the Earth. Women of Vision and Power!.  We encourage and equip Women Entrepreneurs to build and impact their families, business and engage in their community by using their gifts, talents and resources all while sharing the love of God. </p>
+                <p class="card-text"> God has called us to be Kingdom Financiers!</p>
+              </div>
             </div>
-        </header>
-        <!-- Carousel -->
-    
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-  </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="assets/img/events/gallery/dolbusiness.jpg"  alt="First slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/events/gallery/dolpark.jpg" alt="Second slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/events/gallery/dollake.jpg" alt="Third slide">
-    </div>
-  </div>
-  <div class="carousel-item">
-      <img class="d-block w-100" src="assets/img/events/gallery/dolhealthfair.jpg" alt="Third slide">
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-
-
-
-        <section class="page-section" >
-            <div class="container2">
-               
-                <div class="row">
-                    <div class="col-lg-6 mb-4">
-                        <div class="card h-100" style="border:0px">
-                            
-                            <div class="card-body"  >
-                                 <h2 class="section-heading text-uppercase">Daughters of Lydia</h2>
-                                 <p class="card-text">Women Entrepreneurs coming together for Networking and Collective Philanthropy!</p>
-                                    <p class="card-text"> We encourage and equip Women Entrepreneurs to build and impact their families, business  and engage in their community by using their gifts, talents and resources all while sharing the love of God. </p>
-                                    <p class="card-text"> God has called us to be Kingdom Financiers!</p>
-
-
-                                 
-
-
-                               
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 mb-4">
-                        <div class="card h-100" style="border:0px">
-                            
-                            <div class="card-body" style="text-align:center;">
-                          
-                    
-                            
-                            <p ><a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://www.facebook.com/groups/1293304504162255">Join our group</a> </p>
-                            <p class="card-text"><a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/DaughtersLYDIA"><i class="fab fa-facebook-f"></i></a> </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+          </div>
+          <div class="col-lg-6 mb-4">
+            <div class="card h-100" style="border:0px">
+              <div class="card-body" style="text-align:center;">
+                <p ><a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://www.facebook.com/groups/1293304504162255">Join our group</a> </p>
+                <p class="card-text"><a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/DaughtersLYDIA"><i class="fab fa-facebook-f"></i></a> </p>
+              </div>
             </div>
-        </section>
+          </div>
+        </div>
+      </div>
+    </section>
 
 
  <!-- Footer-->
-
     <?php 
-            include 'includes/footer.php';
-        ?>
+      include 'includes/footer.php';
+    ?>
         
 
-        <!-- Bootstrap core JS-->
-         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
-      
-      
-       
-          <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
-        
-    
-        <!-- Third party plugin JS-->
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js" integrity="sha512-IQLehpLoVS4fNzl7IfH8Iowfm5+RiMGtHykgZJl9AWMgqx0AmJ6cRWcB+GaGVtIsnC4voMfm8f2vwtY+6oPjpQ==" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
-        
-        <!-- Contact form JS-->
-        <script src="assets/mail/jqBootstrapValidation.js"></script>
-        <script src="assets/mail/contact_me.js"></script>
-        <!-- Core theme JS-->
-               
-        <script src="assets/js/scripts.js"></script>
+    <!-- Bootstrap core JS-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+    <!-- Contact form JS-->
+    <script src="assets/mail/jqBootstrapValidation.js"></script>
+    <script src="assets/mail/contact_me.js"></script>
+    <!-- Core theme JS-->
+    <script src="assets/js/scripts.js"></script>
 
 
-        
-   
-
-    </body>
+  </body>
 </html>
 
