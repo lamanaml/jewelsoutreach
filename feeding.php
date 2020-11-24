@@ -92,7 +92,7 @@
             <div class="card h-100" style="border:0px">
               <div class="card-body"  >
                 <h2 class="section-heading text-uppercase">Jewels Feeding Friends</h2>
-                  <p class="card-text">It our mission to provide a solution for the food insecurities in our community. Durham along with so many other cities are experiencing unprecedented gentrification, which as had a positive correlation with food poverty in low income families. </p>
+                  <p class="card-text">It our mission to provide a solution for the food insecurities in our community. Durham, along with so many other cities, are experiencing unprecedented gentrification, which can unfortunately leave many lower income families displaced and in a state of food poverty. </p>
                   
                    <p class="card-text">According to statistics, 16.5 percent of Durham’s Families are affected by hunger. That’s 49,600 people, 19.1 percent of those are under 18. That’s 12,460 of our babies that are experiencing hunger. In addition, 31.9 percent of our children receive free/reduced lunches in our schools due to the families inability to provide healthy meals at home.  These numbers are very disturbing. Way too many of our families are struggling to provide healthy food for their families. We have a obligation to our community to provide the proper resources during their time of need. </p>
                    
