@@ -92,17 +92,17 @@
             <div class="card h-100" style="border:0px">
               <div class="card-body"  >
                 <h2 class="section-heading text-uppercase">Jewels Feeding Friends</h2>
-                <p class="card-text">Jewels Feeding Friends has taken on the mission to help meet needs in our community. We work with organizations and volunteers to help provide solutions for food insecurities in our community. </p>
+                  <p class="card-text">It our mission to provide a solution for the food insecurities in our community. Durham along with so many other cities are experiencing unprecedented gentrification, which as had a positive correlation with food poverty in low income families. 
+                  
+                   According to statistics, 16.5 percent of Durham’s Families are affected by hunger. That’s 49,600 people, 19.1 percent of those are under 18. That’s 12,460 of our babies that are experiencing hunger. In addition, 31.9 percent of our children receive free/reduced lunches in our schools due to the families inability to provide healthy meals at home.  These numbers are very disturbing. Way too many of our families are struggling to provide healthy food for their families. We have a obligation to our community to provide the proper resources during their time of need. 
+                   
+                   JEWELS Feeding Friends Program has partnered with the Food Bank of Central & Eastern North Carolina, our local Panera Bread, Kipp Charter School and many other organizations, to help combat this growing epidemic of hunger. Some of our initiatives include a mobile food bank every 2nd Saturday of each month at Kipp Charter School in Durham and an Annual Thanksgiving in the Park. We also have partnered with Kipp’s Backpack program providing 25 students with food during extended breaks. 
+                  
+                  </p>
 
 
-                <p class="card-text"> Jewels Networking & Outreach Inc is a non- profit organization. We are a voice for the voiceless and a advocate for those  who can’t advocate for themselves! We are extension of Jesus on the earth. We are his hands and feet. We believe it is through his agape love for mankind that we can live life in abundance and with Joy! 
-                Jewels was founded in April 2015 . We received our 501-3c in January, 2016. We are committed to sharing unconditional  love to all people despite their economic background or lifestyle . It is our goal to provide them with the necessary tools by offering workshops, trainings and other resources  that will help them live their  lives on Purpose. It is our goal to empower and encourage spiritual , personal and economic growth. One person at a time! One community at a time!  </p>
 
-                <p class="card-text">It our mission to provide a solution for the food insecurities in our community. Durham along with so many other cities are experiencing gentrification, poverty with this being said Many Familes are struggling to provide healthy food for their families. JEWELS Feeding friends has partnered with the Food Bank of Central & Eastern North Carolina and our local Panera Bread to help combat this growing epidemic of hungry. We provide a mobile food bank every 2nd Saturday of each month at Kipp Charter School Durham. We are thankful for Kipps Charter School as well. We also have partnered with Kipp’s Backpack program providing 25 students with food during extended breaks. According to statistics 16.5 percent of Durham’s Familes are effected by hunger. That’s 49,600 people. In addition 19.1 percent of our children 18 and Under are effected. These numbers are very disturbing . That’s 12,460 of our babies that are experiencing hunger. Last but not least 31.9 percent of our children receive free/reduced lunches in our schools. We have a obligation to our community to provide the proper resources during their time of need. JEWELS Feeding Friends Program is doing its part in providing the needs in our community for men, women, children of all ages and walks of life.  </p>
-
-
-
- <br/> <br/>
+                <br/> <br/>
                 <h3> 2020 Thanksgiving in the Park!</h3>
                 <div class="iframe">
                   <iframe src="https://drive.google.com/file/d/1IPUvZAXaXHpNcr_QtoMEXXAY87DIQefF/preview" ></iframe>
