@@ -116,16 +116,7 @@
                             <div class="timeline-body"><p class="text-muted">10AM - 12PM<br/> Kipp Charter School<br/> 1107 Holloway Street - Durham </p></div>
                         </div>
                     </li> -->
-                    <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/3.jpg" alt="" /></div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <h4>11/21/2020</h4>
-                                <h4 class="subheading">Annual Thanksgiving Feast</h4>
-                            </div>
-                            <div class="timeline-body"><p class="text-muted">Lunches will be packed to go.  Masks required. <br/> 12PM - 2 PM <br/>Oakwood Park <br/> 411 Holloway Street - Durham  </p></div>
-                        </div>
-                    </li>
+                    
 
 
                     <li >
@@ -138,7 +129,16 @@
                             <div class="timeline-body"><p class="text-muted">Join us for a pot of soup and a pack of Socks! <br/>12 PM - 2 PM<br/> Oakwood Park<br/> 411 Holloway Street - Durham</p></div>
                         </div>
                     </li>
-                    
+                    <!-- <li class="timeline-inverted">
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/3.jpg" alt="" /></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4>11/21/2020</h4>
+                                <h4 class="subheading">Annual Thanksgiving Feast</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">Lunches will be packed to go.  Masks required. <br/> 12PM - 2 PM <br/>Oakwood Park <br/> 411 Holloway Street - Durham  </p></div>
+                        </div>
+                    </li> -->
                    
                     <li class="timeline-inverted">
                         <div class="timeline-image">
