@@ -87,39 +87,34 @@
     <section class="page-section" >
       <div class="container2">
         <div class="row">
+
           <div class="col-lg-7 mb-4">
             <div class="card h-100" style="border:0px">
               <div class="card-body"  >
                 <h2 class="section-heading text-uppercase">Jewels Feeding Friends</h2>
-                <p class="card-text">Jewels Feeding Friends has taken on the mission to help meet needs in our community.
-We work with organizations and volunteers to help provide solutions for food insecurities in our community. </p>
-
-<h3> 2020 Thanksgiving in the Park!</h3>
-<div class="iframe">
-                       <iframe src="https://drive.google.com/file/d/1IPUvZAXaXHpNcr_QtoMEXXAY87DIQefF/preview" ></iframe>
-                       </div>
-<div class="iframe">
-
-                       <iframe src="https://www.youtube.com/embed/H57ILMJh-tI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <p class="card-text">Jewels Feeding Friends has taken on the mission to help meet needs in our community. We work with organizations and volunteers to help provide solutions for food insecurities in our community. </p>
+                <h3> 2020 Thanksgiving in the Park!</h3>
+                <div class="iframe">
+                  <iframe src="https://drive.google.com/file/d/1IPUvZAXaXHpNcr_QtoMEXXAY87DIQefF/preview" ></iframe>
+                </div>
+                <div class="iframe">
+                  <iframe src="https://www.youtube.com/embed/H57ILMJh-tI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
               </div>
-<div class="iframe">
-
             </div>
-        </div>
-        <div class="col-lg-5 mb-4">
-
+          </div>
+          <div class="col-lg-5 mb-4">
             <div class="card h-100" style="border:0px">
               <div class="card-body" style="text-align:center;">
-
-<br/>
-<br/>
-<br/>
-<br/>
-<h4>How can you get involved?</h4>
-              <p> <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="contact.php">Volunteer</a> </p>
-              <p> <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="contact.php">Become a Partner</a> </p>
-              <p> <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="donate.php">Make a Donation</a> </p>
-              <p> <a class="btn btn-dark btn-social mx-2" href="feedingfriends.html"><i class="fab fa-facebook-f"></i></a></p></div>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <h4>How can you get involved?</h4>
+                <p> <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="contact.php">Volunteer</a> </p>
+                <p> <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="contact.php">Become a Partner</a> </p>
+                <p> <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="donate.php">Make a Donation</a> </p>
+                <p> <a class="btn btn-dark btn-social mx-2" href="feedingfriends.html"><i class="fab fa-facebook-f"></i></a></p></div>
               </div>
             </div>
           </div>
