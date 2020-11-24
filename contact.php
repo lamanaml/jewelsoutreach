@@ -70,7 +70,7 @@
 
                 <!-- https://us7.list-manage.com/contact-form?u=f8fb542db59835608c24db966&form_id=272a51c4fc8761bf753113a9188d5253 -->
                 <form id="contactForm" name="sentMessage" novalidate="novalidate">
-                     <div class="col-md-6">
+                     <div class="row align-items-stretch mb-5">
                     <h3>Subject</h3>
                         <select class="form-control" id="contact" name="contact">
                         <option value="prayer">Prayer Request</option>
