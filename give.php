@@ -61,7 +61,10 @@
                 <div class="card h-100" style="border:0px">
                   <div class="card-body"  >
                     <h2 class="section-heading text-uppercase">Give</h2>
-                    <p class="card-text">Jewels Networking and Outreach Ministries can only achieve its goals with the assistance of generous donations from people like you. These donations greatly help us serve our brothers and sisters in Christ.  With your help we are able to serve our community in so many ways including providing groceries, cooked meals, clothing, toiletries, and most important, the word of GOD. We are a 501c3 tax exempt non-profit.  All donations are tax deductible. </p>
+                    <p class="card-text">Jewels Networking and Outreach Ministries can only achieve its goals with the assistance of generous donations from people like you. These donations greatly help us serve our brothers and sisters in Christ.  With your help we are able to serve our community in so many ways including providing groceries, cooked meals, clothing, toiletries, and most important, the word of GOD. </p>
+                  </div>
+                      
+                      <p class="card-text">We are a 501c3 tax exempt non-profit.  All donations are tax deductible. </p>
                   </div>
                 </div>
               </div>
@@ -70,7 +73,7 @@
                 <div class="card-body" style="text-align:center;">
                  <div class="row row-cols-1 row-cols-md-2">
  <div class="col mb-4">
-                    <div class="card text-white bg-warning ">
+                    <div class="card text-gray ">
                       <div class="card-header">Give Online</div>
                       <div class="card-body">
                         <p class="card-text">Give a monthly or one time gift online through a credit card or checking account</p>
