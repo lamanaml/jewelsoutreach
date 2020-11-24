@@ -215,7 +215,10 @@
                   
                    
                 <div class="row">
-                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Jewels Networking & Outreach Inc is a non-profit organization. We are a voice for the voiceless and a advocate for those  who can’t advocate for themselves! We are extension of Jesus on the earth. We are his hands and feet. We believe it is through his agape love for mankind that we can live life in abundance and with Joy!  <br/> <br/>Jewels was founded in April 2015. We received our 501-3c in January, 2016. We are committed to sharing unconditional love to all people despite their economic background or lifestyle. It is our goal to provide them with the necessary tools by offering workshops, trainings and other resources  that will help them live their lives on Purpose. It is our goal to empower and encourage spiritual, personal and economic growth one person at a time, one community at a time! </p></div>
+                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Jewels Networking & Outreach Inc is a non-profit organization. We are a voice for the voiceless and an advocate for those who can’t advocate for themselves! We are an extension of Jesus on the earth. We are his hands and feet. We believe it is through his agape love for mankind that we can live life in abundance and with Joy! <br/> <br/>
+                    Jewels was founded in April 2015. We received our 501-3c in January, 2016. We are committed to sharing unconditional love to all people despite their economic background or lifestyle. It is our goal to provide them with the necessary tools by offering workshops, training and other resources that will help them live their lives on Purpose. It is our goal to empower and encourage spiritual, personal and economic growth one person at a time, one community at a time!
+                    </p>
+                </div>
                 </div>
             </div>
         </section>
