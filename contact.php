@@ -70,8 +70,8 @@
 
                 <!-- https://us7.list-manage.com/contact-form?u=f8fb542db59835608c24db966&form_id=272a51c4fc8761bf753113a9188d5253 -->
                 <form id="contactForm" name="sentMessage" novalidate="novalidate">
-                    <label for="subject">Subject</label>
-                        <select id="contact " name="contact">
+                    <label class="form-control" for="subject">Subject</label>
+                        <select id="contact" name="contact">
                         <option value="prayer">Prayer Request</option>
                         <option value="donate">Donate Items</option>
                         <option value="volunteer">Become a Volunteer</option>
