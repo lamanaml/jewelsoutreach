@@ -98,14 +98,14 @@
                             
                             <div class="card-body"  >
                                  <h2 class="section-heading text-uppercase">Daughters of Lydia</h2>
-                                 <p class="card-text">Women Entrepreneurs coming together for Networking and Collective Philanthropy. We encourage and equip Women Entrepreneurs to build and impact their families, business  and engage in their community by using their gifts, talents and resources all while sharing the love of God. God has called us to be Kingdom Financiers!</p>
+                                 <p class="card-text">Women Entrepreneurs coming together for Networking and Collective Philanthropy!</p>
+                                    <p class="card-text"> We encourage and equip Women Entrepreneurs to build and impact their families, business  and engage in their community by using their gifts, talents and resources all while sharing the love of God. </p>
+                                    <p class="card-text"> God has called us to be Kingdom Financiers!</p>
 
 
                                  
 
- <p class="card-text">The purpose of the Daughter’s of Lydia is to encourage and equip Women Entrepreneurs to build and impact their families, business  and engage in their community by using their gifts, talents and resources all while sharing the love of God. 
 
-Our motto is God has called us to be Kingdom Financiers! </p>
                                
                             </div>
                         </div>
