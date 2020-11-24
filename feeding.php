@@ -131,12 +131,12 @@
                 <p> <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="contact.php">Become a Partner</a> </p>
                 <p> <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="donate.php">Make a Donation</a> </p>
                 <p> <a class="btn btn-dark btn-social mx-2" href="feedingfriends.html"><i class="fab fa-facebook-f"></i></a></p>
-              </div>
+          
                 <h3> 2017 Thanksgiving Lunch in the Park!</h3>
                 <div class="iframe">
                   <iframe src="https://www.youtube.com/embed/H57ILMJh-tI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
-             
+                 </div>
             </div>
           </div>
         </div>
