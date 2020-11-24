@@ -97,16 +97,12 @@
                    <p class="card-text">According to statistics, 16.5 percent of Durham’s Families are affected by hunger. That’s 49,600 people, 19.1 percent of those are under 18. That’s 12,460 of our babies that are experiencing hunger. In addition, 31.9 percent of our children receive free/reduced lunches in our schools due to the families inability to provide healthy meals at home.  These numbers are very disturbing. Way too many of our families are struggling to provide healthy food for their families. We have a obligation to our community to provide the proper resources during their time of need. </p>
                    
                    <p class="card-text">JEWELS Feeding Friends Ministry has partnered with the Food Bank of Central & Eastern North Carolina, our local Panera Bread, Kipp Charter School and many other organizations, to help combat this growing epidemic of hunger. Some of our initiatives include a mobile food bank every 2nd Saturday of each month at Kipp Charter School in Durham and an Annual Thanksgiving in the Park Meal. We also have partnered with Kipp’s Backpack program providing 25 students with food during extended breaks. </p>
-                  
-                  
+                   <br/>
 
-
-
-                
-                <h3> 2017 Thanksgiving Lunch in the Park!</h3>
-                <div class="iframe">
-                  <iframe src="https://www.youtube.com/embed/H57ILMJh-tI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div><br/> 
+                  <h3> 2017 Thanksgiving Lunch in the Park!</h3>
+                  <div class="iframe">
+                    <iframe src="https://www.youtube.com/embed/H57ILMJh-tI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  </div><br/> 
 
 
                 
