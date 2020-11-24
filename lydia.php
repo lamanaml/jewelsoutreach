@@ -94,7 +94,7 @@
               <div class="card-body"  >
                 <h2 class="section-heading text-uppercase">Daughters of Lydia</h2>
                 <p class="card-text">Women Entrepreneurs coming together for Networking and Collective Philanthropy!</p>
-                <p class="card-text">We encourage and equip Women Entrepreneurs to build and impact their families, business and engage in their community by using their gifts, talents and resources all while sharing the love of God.  The Daughter's of LYDIA are women with Purpose! Business Women that God uses to help fund Kingdom Assignments on the Earth. Women of Vision and Power!  </p>
+                <p class="card-text">We encourage and equip Women Entrepreneurs to build and impact their families, business and engage in their community by using their gifts, talents and resources all while sharing the love of God.  The Daughters of LYDIA are women with Purpose! Business Women that God uses to help fund Kingdom Assignments on the Earth. Women of Vision and Power!  </p>
                 <p class="card-text"> God has called us to be Kingdom Financiers!</p>
               </div>
             </div>
