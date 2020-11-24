@@ -93,22 +93,24 @@
 
                 <div class="col mb-4">
                   <div class="card text-gray ">
-                    <div class="card-header">Give by Mail</div>
-                    <div class="card-body">
-                      <p class="card-text">We gratefully accept donations via mail to...</p>
-                    </div>
-                  </div>
-                </div>
-                   
-                   <!-- <div class="col mb-4">
-                  <div class="card text-gray ">
                     <div class="card-header">Give in Person</div>
                     <div class="card-body">
                       <p class="card-text">Donate with cash in person when you see us at one of events</p>
                     </div>
                   </div>
                 </div>
-              </div> -->
+              </div>
+
+
+                <!-- <div class="col mb-4">
+                  <div class="card text-gray ">
+                    <div class="card-header">Give by Mail</div>
+                    <div class="card-body">
+                      <p class="card-text">We gratefully accept donations via mail to...</p>
+                    </div>
+                  </div>
+                </div> -->
+                   
 
 
             </div>
