@@ -107,11 +107,11 @@
                 <div class="iframe">
                   <iframe src="https://drive.google.com/file/d/1IPUvZAXaXHpNcr_QtoMEXXAY87DIQefF/preview" ></iframe>
                 </div>
-                <br/> <br/>
+                <!-- <br/> <br/>
                 <h3> 2017 Thanksgiving Lunch in the Park!</h3>
                 <div class="iframe">
                   <iframe src="https://www.youtube.com/embed/H57ILMJh-tI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
+                </div> -->
                  <!-- <h3> Holistic Health Fair</h3>
                <div class="iframe">
                   <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjewelsoutreach%2Fvideos%2F1710216095936037%2F&show_text=0&width=560" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
@@ -130,13 +130,14 @@
                 <p> <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="contact.php">Volunteer</a> </p>
                 <p> <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="contact.php">Become a Partner</a> </p>
                 <p> <a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="donate.php">Make a Donation</a> </p>
-                <p> <a class="btn btn-dark btn-social mx-2" href="feedingfriends.html"><i class="fab fa-facebook-f"></i></a></p></div>
+                <p> <a class="btn btn-dark btn-social mx-2" href="feedingfriends.html"><i class="fab fa-facebook-f"></i></a></p>
               </div>
-              <br/> <br/>
+            <br/> <br/>
                 <h3> 2017 Thanksgiving Lunch in the Park!</h3>
                 <div class="iframe">
                   <iframe src="https://www.youtube.com/embed/H57ILMJh-tI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
+             
             </div>
           </div>
         </div>
