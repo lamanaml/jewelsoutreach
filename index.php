@@ -256,7 +256,7 @@
                         <a href="https://www.facebook.com/BarbershopBarbee/"><img class="img-fluid d-block mx-auto img-partner" src="assets/img/partners/thebarbeeshop.jpeg" alt="The Barbee Shop" /></a>
                     </div>   
                      <div class="col-md-2 col-sm-6 my-3">
-                        <a href="https://cozartxperience.square.site/"><img class="img-fluid d-block mx-auto img-partner" src="assets/img/partners/cozartexperiencce.jpeg" alt="The CozartXperience" /></a>
+                        <a href="https://cozartxperience.square.site/"><img class="img-fluid d-block mx-auto img-partner" src="assets/img/partners/cozartexperience.jpeg" alt="The CozartXperience" /></a>
                     </div>   
                     <div class="col-md-2 col-sm-6 my-3">
                         <a href="https://stglobalministries.com/meet-stephanie-taylor/"><img class="img-fluid d-block mx-auto img-partner" src="assets/img/partners/stephanietaylor.jpeg" alt="Stephanie Taylor" /></a>
