@@ -74,7 +74,7 @@
                         <div class="col-md-6">
                              <div   class="text-center">
                             <select class="form-control form-control-lg" id="subject" type="dropdown" name="subject" required="required" data-validation-required-message="Please Select a Subject">
-                               <option value="prayer">Select a Subject</option>
+                               <option value="" disabled selected>Select a Subject</option>
                                 <option value="prayer">Prayer Request</option>
                                 <option value="donate">Donate Items</option>
                                 <option value="volunteer">Become a Volunteer</option>
