@@ -72,6 +72,7 @@
                 <form id="contactForm" name="sentMessage" novalidate="novalidate">
                     <div class="row align-items-stretch mb-5">
                         <div class="col-md-6">
+                           <div class="form-group">
                             <select class="form-control" id="subject" type="dropdown" name="subject" required="required" data-validation-required-message="Please Select a Subject">
                                 <option value="prayer">Prayer Request</option>
                                 <option value="donate">Donate Items</option>
@@ -80,6 +81,7 @@
                                 <option value="question">Questions or Comments</option>
                                 <option value="other">Other</option>
                             </select>
+                            </div>
                         </div>
                     </div>
                     <div class="row align-items-stretch mb-5">
