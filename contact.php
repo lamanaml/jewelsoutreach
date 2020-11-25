@@ -49,7 +49,7 @@
         <header class="masthead2">
             <div class="container">
                 <!-- <div class="masthead-subheading">Jewels Networking and Outreach</div> -->
-                <div class="masthead-heading text-uppercase">Prayer Request / Contact Us </div>
+                <div class="masthead-heading text-uppercase">Contact Us </div>
                 
             </div>
         </header>
@@ -58,30 +58,20 @@
 <!-- Contact-->
         <section class="page-section" id="contact">
             <div class="container">
-
-
 <!--End mc_embed_signup-->
                 <div class="text-center">
-                    <!-- <h2 class="section-heading text-uppercase">Prayer Request or Contact Us</h2> -->
                     <h3 class="section-subheading text-muted">In need of prayer for yourself or someone you know?  Email us below or call us at (919) 438-0374</h3>
                 </div>
-
-
-
-                <!-- https://us7.list-manage.com/contact-form?u=f8fb542db59835608c24db966&form_id=272a51c4fc8761bf753113a9188d5253 -->
                 <form id="contactForm" name="sentMessage" novalidate="novalidate">
                     <div class="row  mb-5">
-                   
-                            <select class="form-control form-control-lg" id="subject" type="dropdown" name="subject" required="required" data-validation-required-message="Please Select a Subject">
-                                <option value="" disabled selected>Select a Subject</option>
-                                <option value="prayer">Prayer Request</option>
-                                <option value="donate">Donate Items</option>
-                                <option value="volunteer">Become a Volunteer</option>
-                                <option value="sponsor">Become a Sponsor</option>
-                                <option value="question">Questions or Comments</option>
-                            </select>
-                         
-                        </div>
+                        <select class="form-control form-control-lg" id="subject" type="dropdown" name="subject" required="required" data-validation-required-message="Please Select a Subject">
+                            <option value="" disabled selected>Select a Subject</option>
+                            <option value="prayer">Prayer Request</option>
+                            <option value="donate">Donate Items</option>
+                            <option value="volunteer">Become a Volunteer</option>
+                            <option value="sponsor">Become a Sponsor</option>
+                            <option value="question">Questions or Comments</option>
+                        </select>
                     </div>
                     <div class="row align-items-stretch mb-5">
                         <div class="col-md-6">
