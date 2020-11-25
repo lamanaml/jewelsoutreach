@@ -58,17 +58,62 @@
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
         
       </ol>
       <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img class="d-block w-100" src="assets/img/events/gallery/23.jpg"  alt="First slide">
+       <div class="carousel-item active">
+          <img class="d-block w-100" src="assets/img/events/ff/01.jpg"  alt="First slide">
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100" src="assets/img/events/gallery/21.jpg" alt="Second slide">
+          <img class="d-block w-100" src="assets/img/events/ff/02.jpg" alt="Second slide">
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100" src="assets/img/events/gallery/25.jpg" alt="Third slide">
+          <img class="d-block w-100" src="assets/img/events/ff/03.jpg" alt="Third slide">
+        </div>
+      </div>
+      <div class="carousel-item">
+          <img class="d-block w-100" src="assets/img/events/ff/04.jpg" alt="4th slide">
+        </div>
+      </div>
+       <div class="carousel-item">
+          <img class="d-block w-100" src="assets/img/events/ff/05.jpg" alt="5th slide">
+        </div>
+      </div>
+       <div class="carousel-item">
+          <img class="d-block w-100" src="assets/img/events/ff/06.jpg" alt="6th slide">
+        </div>
+      </div>
+       <div class="carousel-item">
+          <img class="d-block w-100" src="assets/img/events/ff/07.jpg" alt="7th slide">
+        </div>
+      </div>
+       <div class="carousel-item">
+          <img class="d-block w-100" src="assets/img/events/ff/08.jpg" alt="8th slide">
+        </div>
+      </div>
+      <div class="carousel-item">
+          <img class="d-block w-100" src="assets/img/events/ff/09.jpg" alt="9th slide">
+        </div>
+      </div>
+       <div class="carousel-item">
+          <img class="d-block w-100" src="assets/img/events/ff/10.jpg" alt="10th slide">
+        </div>
+      </div>
+       <div class="carousel-item">
+          <img class="d-block w-100" src="assets/img/events/ff/11.jpg" alt="11th slide">
+        </div>
+      </div>
+       <div class="carousel-item">
+          <img class="d-block w-100" src="assets/img/events/ff/12.jpg" alt="12th slide">
         </div>
       </div>
       
