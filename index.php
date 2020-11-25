@@ -259,7 +259,7 @@
                         <a href="https://cozartxperience.square.site/"><img class="img-fluid d-block mx-auto img-partner" src="assets/img/partners/cozartexperience.jpeg" alt="The CozartXperience" /></a>
                     </div>   
                     <div class="col-md-2 col-sm-6 my-3">
-                        <a href="https://stglobalministries.com/meet-stephanie-taylor/"><img class="img-fluid d-block mx-auto img-partner" src="assets/img/partners/stephanietaylor.jpeg" alt="Stephanie Taylor" /></a>
+                        <a href="https://stglobalministries.com/"><img class="img-fluid d-block mx-auto img-partner" src="assets/img/partners/stephanietaylor.jpeg" alt="Stephanie Taylor" /></a>
                     </div>  
                        <!-- <div class="col-md-3 col-sm-6 my-3">
                         <a href="http://shonuffseafood.com/"><img class="img-fluid d-block mx-auto" src="assets/img/partners/shonuffseafood.png" alt="Sho Nuff Seafood" /></a>
