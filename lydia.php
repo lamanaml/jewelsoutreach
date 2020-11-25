@@ -72,7 +72,7 @@
         <div class="carousel-item">
           <img class="d-block w-100" src="assets/img/events/dol/03.jpg" alt="Third slide">
         </div>
-      </div>
+  
       <div class="carousel-item">
           <img class="d-block w-100" src="assets/img/events/dol/04.jpg" alt="4th slide">
         </div>
