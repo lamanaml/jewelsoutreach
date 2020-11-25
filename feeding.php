@@ -69,6 +69,7 @@
         <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
         
       </ol>
+      
       <div class="carousel-inner">
        <div class="carousel-item active">
           <img class="d-block w-100" src="http://www.jewelsoutreach.com/assets/img/events/ff/01.jpg"  alt="First slide">
