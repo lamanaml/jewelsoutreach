@@ -70,7 +70,7 @@
 
                 <!-- https://us7.list-manage.com/contact-form?u=f8fb542db59835608c24db966&form_id=272a51c4fc8761bf753113a9188d5253 -->
                 <form id="contactForm" name="sentMessage" novalidate="novalidate">
-                    <div class="row align-items-stretch mb-5">
+                    <div class="row  mb-5">
                         <div class="col-md-12">
                              <div  class="form-control " class="text-center">
                             <select class="form-control form-control-lg" id="subject" type="dropdown" name="subject" required="required" data-validation-required-message="Please Select a Subject">
