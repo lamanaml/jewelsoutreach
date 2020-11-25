@@ -66,8 +66,8 @@
         <div class="carousel-item active">
           <img class="d-block w-100" src="assets/img/events/dol/01.jpg"  alt="First slide">
         </div>
-        <div class="carousel-item">
-          <img class="d-block w-100" src="assets/img/events/dol/02.jpg" alt="Second slide">
+       <div class="carousel-item active">
+          <img class="d-block w-100" src="assets/img/events/dol/01.jpg"  alt="First slide">
         </div>
         <div class="carousel-item">
           <img class="d-block w-100" src="assets/img/events/dol/03.jpg" alt="Third slide">
@@ -88,7 +88,7 @@
           <img class="d-block w-100" src="assets/img/events/dol/07.jpg" alt="7th slide">
         </div>
       </div>
-      
+
       <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
