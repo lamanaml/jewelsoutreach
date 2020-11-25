@@ -60,7 +60,7 @@
             <div class="container">
 <!--End mc_embed_signup-->
                 <div class="text-center">
-                    <h3 class="section-subheading text-muted">In need of prayer for yourself or someone you know?  Email us below or call us at (919) 438-0374</h3>
+                    <h3 class="section-subheading text-muted">In need of prayer, want to help or have general questions? Reach out below or call us at (919) 438-0374.</h3>
                 </div>
                 <form id="contactForm" name="sentMessage" novalidate="novalidate">
                     <div class="row  mb-5">
