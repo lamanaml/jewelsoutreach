@@ -101,19 +101,19 @@
         </div>
 
       <div class="carousel-item">
-          <img class="d-block w-100" src="assets/img/events/ff/09-min.jpg" alt="9th slide">
+          <img class="d-block w-100" src="assets/img/events/ff/09.jpg" alt="9th slide">
         </div>
 
        <div class="carousel-item">
-          <img class="d-block w-100" src="assets/img/events/ff/10-min.jpg" alt="10th slide">
+          <img class="d-block w-100" src="assets/img/events/ff/10.jpg" alt="10th slide">
         </div>
 
        <div class="carousel-item">
-          <img class="d-block w-100" src="assets/img/events/ff/11-min.jpg" alt="11th slide">
+          <img class="d-block w-100" src="assets/img/events/ff/11.jpg" alt="11th slide">
         </div>
 
        <div class="carousel-item">
-          <img class="d-block w-100" src="assets/img/events/ff/12-min.jpg" alt="12th slide">
+          <img class="d-block w-100" src="assets/img/events/ff/12.jpg" alt="12th slide">
         </div>
       </div>
       
