@@ -71,7 +71,7 @@
       </ol>
       <div class="carousel-inner">
        <div class="carousel-item active">
-          <img class="d-block w-100" src="assets/img/events/ff/01.jpg"  alt="First slide">
+          <img class="d-block w-100" src="http://www.jewelsoutreach.com/assets/img/events/ff/01.jpg"  alt="First slide">
         </div>
         <div class="carousel-item">
           <img class="d-block w-100" src="assets/img/events/ff/02.jpg" alt="Second slide">
