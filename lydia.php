@@ -65,6 +65,7 @@
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img class="d-block w-100" src="assets/img/events/dol/01.jpg"  alt="First slide">
+          
         </div>
         <div class="carousel-item">
           <img class="d-block w-100" src="assets/img/events/dol/02.jpg" alt="Second slide">
