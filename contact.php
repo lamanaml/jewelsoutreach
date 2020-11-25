@@ -73,7 +73,7 @@
                     <div class="row align-items-stretch mb-5">
                         <div class="col-md-6">
                            <div class="form-group">
-                            <select class="form-control" id="subject" type="dropdown" name="subject" required="required" data-validation-required-message="Please Select a Subject">
+                            <select class="form-control form-control-lg" id="subject" type="dropdown" name="subject" required="required" data-validation-required-message="Please Select a Subject">
                                 <option value="prayer">Prayer Request</option>
                                 <option value="donate">Donate Items</option>
                                 <option value="volunteer">Become a Volunteer</option>
