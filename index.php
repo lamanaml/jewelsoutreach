@@ -237,7 +237,7 @@
                         <a href="https://www.facebook.com/LOGOSClothingNC/"><img class="img-fluid d-block mx-auto img-partner" src="assets/img/partners/logosclothing.jpeg" alt="Logos Clothing" /></a>
                     </div>
                        <div class="col-md-2 col-sm-6 my-3">
-                        <a href="https://www.thrivingfaithnc.com"><img class="img-fluid d-block mx-auto " src="assets/img/partners/thrivingfaith.jpeg" alt="Thriving Faith Church" /></a>
+                        <a href="https://www.thrivingfaithcc.com/"><img class="img-fluid d-block mx-auto " src="assets/img/partners/thrivingfaith.jpeg" alt="Thriving Faith Church" /></a>
                     </div>   
                  
                     <div class="col-md-2 col-sm-6 my-3">
@@ -260,6 +260,9 @@
                     </div>   
                     <div class="col-md-2 col-sm-6 my-3">
                         <a href="https://stglobalministries.com/"><img class="img-fluid d-block mx-auto img-partner" src="assets/img/partners/stephanietaylor.jpeg" alt="Stephanie Taylor" /></a>
+                    </div>  
+                     <div class="col-md-2 col-sm-6 my-3">
+                        <a href="https://culinaryhealing.com.com/"><img class="img-fluid d-block mx-auto img-partner" src="https://culinaryhealing.com/assets/images/chlogo-tran.png" alt="Culinary Healing" /></a>
                     </div>  
                        <!-- <div class="col-md-3 col-sm-6 my-3">
                         <a href="http://shonuffseafood.com/"><img class="img-fluid d-block mx-auto" src="assets/img/partners/shonuffseafood.png" alt="Sho Nuff Seafood" /></a>
