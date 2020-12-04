@@ -2,6 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
+        <!-- Primary Meta Tags -->
         <title>Jewels Networking and Outreach</title>
         <link rel="canonical" href="https://www.jewelsoutreach.com"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -11,6 +12,20 @@
         <meta property="og:title" content="Jewels Networking and Outreach"/>
         <meta property="og:url" content="https://www.jewelsoutreach.com"/>
         <meta property="og:type" content="website"/>
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="http://jewelsoutreach.com/">
+        <meta property="og:title" content="Jewels Networking and Outreach">
+        <meta property="og:description" content="Jewels Networking and Outreach is a non-profit Faith-based organization teaming with our community to feed and empower those in need.">
+        <meta property="og:image" content="">
+
+        <!-- Twitter -->
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:url" content="http://jewelsoutreach.com/">
+        <meta property="twitter:title" content="Jewels Networking and Outreach">
+        <meta property="twitter:description" content="Jewels Networking and Outreach is a non-profit Faith-based organization teaming with our community to feed and empower those in need.">
+        <meta property="twitter:image" content="">
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
             <script async src="https://www.googletagmanager.com/gtag/js?id=G-WSQN4XZM4L"></script>
