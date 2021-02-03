@@ -119,8 +119,8 @@
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Events</h2>
                     <h3 class="section-subheading text-muted">List of events happening in our community!</h3>
-                </div>
-                <div>
+                <!-- </div>
+                <div> -->
                 <figure>
                     <img src="assets/img/dolevent.jpg" alt="Event" style="width:50%">
                     
