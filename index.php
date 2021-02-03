@@ -120,8 +120,14 @@
                     <h2 class="section-heading text-uppercase">Events</h2>
                     <h3 class="section-subheading text-muted">List of events happening in our community!</h3>
                 </div>
-                <ul class="timeline">
-                    <!-- <li>
+                <div>
+                <figure>
+                    <img src="assets/img/dolevent.jpg" alt="Event" style="width:100%">
+                    <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+                    </figure>
+                </div>
+                <!-- <ul class="timeline">
+                    <li>
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="#" alt="" /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
@@ -130,7 +136,7 @@
                             </div>
                             <div class="timeline-body"><p class="text-muted">10AM - 12PM<br/> Kipp Charter School<br/> 1107 Holloway Street - Durham </p></div>
                         </div>
-                    </li> -->
+                    </li>
                     
 
 
@@ -144,7 +150,7 @@
                             <div class="timeline-body"><p class="text-muted">Join us for a pot of soup and a pack of Socks! <br/>12 PM - 2 PM<br/> Oakwood Park<br/> 411 Holloway Street - Durham</p></div>
                         </div>
                     </li>
-                    <!-- <li class="timeline-inverted">
+                    <li class="timeline-inverted">
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/3.jpg" alt="" /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
@@ -153,7 +159,7 @@
                             </div>
                             <div class="timeline-body"><p class="text-muted">Lunches will be packed to go.  Masks required. <br/> 12PM - 2 PM <br/>Oakwood Park <br/> 411 Holloway Street - Durham  </p></div>
                         </div>
-                    </li> -->
+                    </li>
                    
                     <li class="timeline-inverted">
                         <div class="timeline-image">
@@ -166,7 +172,7 @@
                             </h4>
                         </div>
                     </li>
-                </ul>
+                </ul> -->
             </div>
         </section>
 
