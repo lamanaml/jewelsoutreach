@@ -122,8 +122,8 @@
                 <!-- </div>
                 <div> -->
                 <figure>
-                    <img src="assets/img/dolevent.jpg" alt="Event" style="width:50%">
-                    
+                    <img src="assets/img/dolevent.jpg" alt="Event" style="width:100%">
+                    <figcaption><a href="https://www.jewelsoutreach.com/contact.php">Contact us</a> to become a vendor.</figcaption>
                     </figure>
                 </div>
                 <!-- <ul class="timeline">
