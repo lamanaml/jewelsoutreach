@@ -122,8 +122,8 @@
                 </div>
                 <div>
                 <figure>
-                    <img src="assets/img/dolevent.jpg" alt="Event" style="width:100%">
-                    <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+                    <img src="assets/img/dolevent.jpg" alt="Event" style="width:50%">
+                    
                     </figure>
                 </div>
                 <!-- <ul class="timeline">
