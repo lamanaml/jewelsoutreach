@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title>A King in You - Jewels Networking and Outreach</title>
+        <title>There's a King in You - Jewels Networking and Outreach</title>
         <link rel="canonical" href="https://www.jewelsoutreach.com"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="Jewels Networking and Outreach is a non-profit Faith-based organization teaming with our community to feed and empower those in need."  />
