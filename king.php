@@ -47,7 +47,7 @@
     <header class="masthead2">
         <div class="container">
           <!-- <div class="masthead-subheading">Jewels Networking and Outreach</div> -->
-          <div class="masthead-heading text-uppercase">A King in You</div>
+          <div class="masthead-heading text-uppercase">There's a King in You</div>
         </div>
     </header>
 
@@ -107,8 +107,8 @@
           <div class="col-lg-6 mb-4">
             <div class="card h-100" style="border:0px">
               <div class="card-body"  >
-                <h2 class="section-heading text-uppercase">A King in you</h2>
-                <p class="card-text">   There Is A King In You was designed to empower and educate our youth.  
+                <h2 class="section-heading text-uppercase">There's A King in you</h2>
+                <p class="card-text">   There's A King In You was designed to empower and educate our youth.  
 Many of our young men are on a quest to find themselves and we aim to help them. 
 Our society has created such a negative stereotype of our  African American males and it is our mission to change the narrative.  We want to be influential in their lives.  Our goal is to enlighten and empower our young men with truth and that truth is God created them to rule and to reign. Our goal is to bring forth the King that resides on the inside of them so that they will walk in all that God has called them to be. 
 </p>
