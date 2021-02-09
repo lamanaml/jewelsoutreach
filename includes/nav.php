@@ -14,6 +14,7 @@
                           <div class="dropdown-menu">
                             <a class="dropdown-item" href="lydia.php">Daughters of Lydia</a>
                             <a class="dropdown-item" href="feeding.php">Jewels Feeding Friends</a>
+                             <a class="dropdown-item" href="king.php">A King in You</a>
                           </div>
                         </li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#events">Events</a></li>
