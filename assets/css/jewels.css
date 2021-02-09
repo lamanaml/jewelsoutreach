@@ -49,6 +49,10 @@ header.masthead3 {
 
 }
 
+.section-subheading {
+  padding-bottom: 40px;
+}
+
 .img-partner {
   max-width:100px;
   height: auto;

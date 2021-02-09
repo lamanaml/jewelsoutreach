@@ -108,7 +108,7 @@
             <div class="card h-100" style="border:0px">
               <div class="card-body"  >
                 <h2 class="section-heading text-uppercase">A King in you</h2>
-                <p class="card-text">WThere Is A King In You was designed to empower and educate our youth.  
+                <p class="card-text">   There Is A King In You was designed to empower and educate our youth.  
 Many of our young men are on a quest to find themselves and we aim to help them. 
 Our society has created such a negative stereotype of our  African American males and it is our mission to change the narrative.  We want to be influential in their lives.  Our goal is to enlighten and empower our young men with truth and that truth is God created them to rule and to reign. Our goal is to bring forth the King that resides on the inside of them so that they will walk in all that God has called them to be. 
 </p>
@@ -142,9 +142,10 @@ They will receive the encouragement and support they need to live out their drea
           <div class="col-lg-6 mb-4">
             <div class="card h-100" style="border:0px">
               <div class="card-body" style="text-align:center;">
-              <p ><a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://fb.watch/3yn4oV6JzX/">The King in You Conference - Intro</a> </p>
-                <p ><a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://fb.watch/3ymY6vagzt/">The King in You Conference </a> </p>
-                  <p ><a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://fb.watch/3yn0IRkjv4/">The King in You Conference - The Seed Lecture</a> </p>
+              <p><iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fjewelsoutreach%2Fvideos%2F411324416353063%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>   </p>
+              <p ><a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://fb.watch/3yn4oV6JzX/">There's a King in You Conference - Intro</a> </p>
+                <p ><a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://fb.watch/3ymY6vagzt/">There's a King in You Conference (recorded live)</a> </p>
+                
  
 
     
