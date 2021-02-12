@@ -108,16 +108,12 @@
             <div class="card h-100" style="border:0px">
               <div class="card-body"  >
                 <h2 class="section-heading text-uppercase">There's A King in you</h2>
-                <p class="card-text">   There's A King In You was designed to empower and educate our youth.  
-Many of our young men are on a quest to find themselves and we aim to help them. 
-Our society has created such a negative stereotype of our  African American males and it is our mission to change the narrative.  We want to be influential in their lives.  Our goal is to enlighten and empower our young men with truth and that truth is God created them to rule and to reign. Our goal is to bring forth the King that resides on the inside of them so that they will walk in all that God has called them to be. 
+                <p class="card-text">   There's A King In You was designed to empower and educate our youth.  Many of our young men are on a quest to find themselves and we aim to help them. Our society has created such a negative stereotype of our  African American males and it is our mission to change the narrative.  We want to be influential in their lives.  Our goal is to enlighten and empower our young men with truth and that truth is God created them to rule and to reign. Our goal is to bring forth the King that resides on the inside of them so that they will walk in all that God has called them to be. 
 </p>
-                <p class="card-text">They will experience a safe and loving environment.  Our program will offer life skill workshops and education that will assist them with their success.
-They will receive the encouragement and support they need to live out their dreams and fulfill their life’s purpose. 
+                <p class="card-text">They will experience a safe and loving environment.  Our program will offer life skill workshops and education that will assist them with their success. They will receive the encouragement and support they need to live out their dreams and fulfill their life’s purpose. 
  </p>
                 <p class="card-text"> Topics of Discussion will include:
                 <ul>
-                <li>Who I Am</li>
                     <li>Who I Am</li>
                     <li>Finding your Purpose</li>
                     <li>My Life Matters</li>
@@ -134,7 +130,7 @@ They will receive the encouragement and support they need to live out their drea
  <p class="card-text">Each workshop will be taught by community professionals. Students will participate in activities and hands-on-training. Students will gain and develop skills that will help  them throughout their lives. Small groups will ensure the safety of each student and our staff. We really want to make an impact in the lives of our young men. </p>
 
 
- <p class="card-text">Another version: We really want to make an impact in the lives of our young men. We will achieve this by partnering with community professionals for each workshop. During these opportunities, students will participate in hands-on-training and various activities. Small groups will be used to ensure the safety of each student and our staff. Students will gain and develop skills that will assist them throughout their life. </p>
+ <!-- <p class="card-text">Another version: We really want to make an impact in the lives of our young men. We will achieve this by partnering with community professionals for each workshop. During these opportunities, students will participate in hands-on-training and various activities. Small groups will be used to ensure the safety of each student and our staff. Students will gain and develop skills that will assist them throughout their life. </p> -->
 
               </div>
             </div>
