@@ -140,7 +140,7 @@
               <div class="card-body" style="text-align:center;">
               <p><iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fjewelsoutreach%2Fvideos%2F411324416353063%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>   </p>
               <p ><a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://fb.watch/3yn4oV6JzX/">There's a King in You Conference - Intro</a> </p>
-                <p ><a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://fb.watch/3ymY6vagzt/">There's a King in You Conference (recorded live)</a> </p>
+                <p ><a class="btn btn-secondary btn-xl text-uppercase js-scroll-trigger" href="https://fb.watch/3ymY6vagzt/">There's a King in You Conference</a> </p>
                 
  
 
