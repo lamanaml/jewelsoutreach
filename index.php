@@ -3,28 +3,28 @@
     <head>
         <meta charset="utf-8" />
         <!-- Primary Meta Tags -->
-        <title>Jewels Networking and Outreach</title>
+        <title>JEWELS Outreach and Networking</title>
         <link rel="canonical" href="https://www.jewelsoutreach.com"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="Jewels Networking and Outreach is a non-profit Faith-based organization teaming with our community to feed and empower those in need."  />
+        <meta name="description" content="JEWELS Outreach and Networking is a non-profit Faith-based organization teaming with our community to feed and empower those in need."  />
         <meta name="author" content="Rhonda Cozart" /> 
-        <meta property="og:site_name" content="Jewels Networking and Outreach"/>
-        <meta property="og:title" content="Jewels Networking and Outreach"/>
+        <meta property="og:site_name" content="JEWELS Outreach and Networking"/>
+        <meta property="og:title" content="JEWELS Outreach and Networking"/>
         <meta property="og:url" content="https://www.jewelsoutreach.com"/>
         <meta property="og:type" content="website"/>
 
         <!-- Open Graph / Facebook -->
         <meta property="og:type" content="website">
         <meta property="og:url" content="http://jewelsoutreach.com/">
-        <meta property="og:title" content="Jewels Networking and Outreach">
-        <meta property="og:description" content="Jewels Networking and Outreach is a non-profit Faith-based organization teaming with our community to feed and empower those in need.">
+        <meta property="og:title" content="JEWELS Outreach and Networking">
+        <meta property="og:description" content="JEWELS Outreach and Networking is a non-profit Faith-based organization teaming with our community to feed and empower those in need.">
         <meta property="og:image" content="">
 
         <!-- Twitter -->
         <meta property="twitter:card" content="summary_large_image">
         <meta property="twitter:url" content="http://jewelsoutreach.com/">
-        <meta property="twitter:title" content="Jewels Networking and Outreach">
-        <meta property="twitter:description" content="Jewels Networking and Outreach is a non-profit Faith-based organization teaming with our community to feed and empower those in need.">
+        <meta property="twitter:title" content="JEWELS Outreach and Networking">
+        <meta property="twitter:description" content="JEWELS Outreach and Networking is a non-profit Faith-based organization teaming with our community to feed and empower those in need.">
         <meta property="twitter:image" content="">
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -63,7 +63,7 @@
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
-                <div class="masthead-subheading">Jewels Networking and Outreach</div>
+                <div class="masthead-subheading">JEWELS Outreach and Networking</div>
                 <div class="masthead-heading text-uppercase">Ministry Without Walls  </div>
                 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="contact.php">Prayer Request</a> <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="give.php">Donate</a> 
                 

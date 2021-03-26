@@ -2,13 +2,13 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title>Give - Jewels Networking and Outreach</title>
+        <title>Give - JEWELS Outreach and Networking</title>
         <link rel="canonical" href="https://www.jewelsoutreach.com"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="Jewels Networking and Outreach is a non-profit Faith-based organization teaming with our community to feed and empower those in need."  />
+        <meta name="description" content="JEWELS Outreach and Networking is a non-profit Faith-based organization teaming with our community to feed and empower those in need."  />
         <meta name="author" content="Rhonda Cozart" /> 
-        <meta property="og:site_name" content="Jewels Networking and Outreach"/>
-        <meta property="og:title" content="Jewels Networking and Outreach"/>
+        <meta property="og:site_name" content="JEWELS Outreach and Networking"/>
+        <meta property="og:title" content="JEWELS Outreach and Networking"/>
         <meta property="og:url" content="https://www.jewelsoutreach.com"/>
         <meta property="og:type" content="website"/>
 
@@ -48,7 +48,7 @@
     <!-- Masthead-->
     <header class="masthead2">
       <div class="container">
-        <!-- <div class="masthead-subheading">Jewels Networking and Outreach</div> -->
+        <!-- <div class="masthead-subheading">JEWELS Outreach and Networking</div> -->
         <div class="masthead-heading text-uppercase">Give to the Ministry </div>
       </div>
     </header>
@@ -61,7 +61,7 @@
                 <div class="card h-100" style="border:0px">
                   <div class="card-body"  >
                     <h2 class="section-heading text-uppercase">Give</h2>
-                    <p class="card-text">Jewels Networking and Outreach Ministries can only achieve its goals with the assistance of generous donations from people like you. These donations greatly help us serve our brothers and sisters in Christ.  With your help we are able to serve our community in so many ways including providing groceries, cooked meals, clothing, toiletries, and most important, the word of GOD. </p>
+                    <p class="card-text">JEWELS Outreach and Networking Ministries can only achieve its goals with the assistance of generous donations from people like you. These donations greatly help us serve our brothers and sisters in Christ.  With your help we are able to serve our community in so many ways including providing groceries, cooked meals, clothing, toiletries, and most important, the word of GOD. </p>
                       
                      <p class="card-text"> We are a 501c3 tax exempt non-profit.  All donations are tax deductible. </p>
                   </div>

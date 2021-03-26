@@ -2,13 +2,13 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title>Daughters of Lydia - Jewels Networking and Outreach</title>
+        <title>Daughters of Lydia - JEWELS Outreach and Networking</title>
         <link rel="canonical" href="https://www.jewelsoutreach.com"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="Jewels Networking and Outreach is a non-profit Faith-based organization teaming with our community to feed and empower those in need."  />
+        <meta name="description" content="JEWELS Outreach and Networking is a non-profit Faith-based organization teaming with our community to feed and empower those in need."  />
         <meta name="author" content="Rhonda Cozart" /> 
-        <meta property="og:site_name" content="Jewels Networking and Outreach"/>
-        <meta property="og:title" content="Jewels Networking and Outreach"/>
+        <meta property="og:site_name" content="JEWELS Outreach and Networking"/>
+        <meta property="og:title" content="JEWELS Outreach and Networking"/>
         <meta property="og:url" content="https://www.jewelsoutreach.com"/>
         <meta property="og:type" content="website"/>
 
@@ -46,7 +46,7 @@
     <!-- Masthead-->
     <header class="masthead2">
         <div class="container">
-          <!-- <div class="masthead-subheading">Jewels Networking and Outreach</div> -->
+          <!-- <div class="masthead-subheading">JEWELS Outreach and Networking</div> -->
           <div class="masthead-heading text-uppercase">Daughters of Lydia </div>
         </div>
     </header>
