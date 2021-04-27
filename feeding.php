@@ -165,11 +165,11 @@
           </div>
           <div class="col-lg-6 mb-4">
             <div class="card h-100" style="border:0px">
-              <div class="card-body" style="text-align:center;">
+              <!-- <div class="card-body" style="text-align:center;">
                <h3> 2020 Thanksgiving in the Park!</h3>
                 <div class="iframe">
                   <iframe src="https://drive.google.com/file/d/1IPUvZAXaXHpNcr_QtoMEXXAY87DIQefF/preview" ></iframe>
-                </div>
+                </div> -->
 
                 <br/>
                 <br/>
