@@ -122,18 +122,12 @@
                 <!-- </div>
                 <div> -->
                 <figure>
-                    <img src="assets/img/image5.jpg" style="width:60%; padding-bottom:50px;" alt="" >
-                 
+                    <img src="assets/img/popup2.jpg" style="width:60%; padding-bottom:50px;" alt="" >
+                 <figcaption><a href="https://www.jewelsoutreach.com/contact.php">Contact us</a> to become a vendor.</figcaption>
+                    </figure>
                     </figure>
                     
-                <figure>
-                    <img src="assets/img/dolevent.jpg" alt="Event" style="width:50%">
-                    <figcaption><a href="https://www.jewelsoutreach.com/contact.php">Contact us</a> to become a vendor.</figcaption>
-                    </figure>
-                     <figure>
-                    <img src="assets/img/image6.jpg" style="width:60%; padding-bottom:50px;" alt="" >
-                 
-                    </figure>
+                
                 </div>
                 <!-- <ul class="timeline">
                     <li>
