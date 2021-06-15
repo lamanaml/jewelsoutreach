@@ -123,7 +123,7 @@
                 <div> -->
                 <figure>
                     <img src="assets/img/popup2.jpg" style="width:60%; padding-bottom:50px;" alt="" >
-                 <figcaption><a href="https://jewelsoutreach.com/shop/">Become a vendor</a>.</figcaption>
+                 <figcaption> <button class="btn btn-secondary"  type="button"><a href="https://jewelsoutreach.com/shop/" >Become a vendor</a></button></figcaption>
                     </figure>
                     </figure>
                     
