@@ -123,7 +123,7 @@
                 <div> -->
                 <figure>
                     <img src="assets/img/popup2.jpg" style="width:60%; padding-bottom:50px;" alt="" >
-                 <figcaption><a href="https://www.jewelsoutreach.com/contact.php">Contact us</a> to become a vendor.</figcaption>
+                 <figcaption><a href="https://jewelsoutreach.com/shop/">Become a vendor</a>.</figcaption>
                     </figure>
                     </figure>
                     
